@@ -1,0 +1,34 @@
+{
+    "name": "UIInputActions",
+    "maps": [
+        {
+            "name": "SkipAction",
+            "id": "1880ec10-bd78-4bdb-9893-f0637445e0b3",
+            "actions": [
+                {
+                    "name": "Skip",
+                    "type": "Button",
+                    "id": "ca28d0d9-f145-4091-95f5-a9ecaa25b465",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "db2cd838-5f62-461d-a73b-b23a9485db0c",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Skip",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
