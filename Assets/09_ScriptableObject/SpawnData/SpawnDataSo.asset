@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4427fd0152b6adb4880ecbc3f86ba970, type: 3}
+  m_Name: SpawnDataSo
+  m_EditorClassIdentifier: 
+  stageDataList:
+  - {fileID: 11400000, guid: d40b53da9dc7f4d40bfb34bf1539a81b, type: 2}
+  - {fileID: 11400000, guid: e166cd169456a734aa9f44841129ed54, type: 2}
+  - {fileID: 11400000, guid: d826897ec7f638f4b90e34fdba4a9770, type: 2}

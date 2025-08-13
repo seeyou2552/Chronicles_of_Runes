@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f0bb84627668a24dbf959b936d4a0fa, type: 3}
+  m_Name: MagicFloor
+  m_EditorClassIdentifier: 
+  id: 13
+  displayName: MagicFloor
+  icon: {fileID: 0}
+  description: "\uB9DE\uC73C\uBA74 \uD37C\uC9C0\uB294 \uB9C8\uBC95\uD0C4\uC744 \uBC1C\uC0AC\uD558\uC5EC
+    \uC9C0\uC18D \uD53C\uD574\uB97C \uC90D\uB2C8\uB2E4"
+  itemType: 0
+  price: 18
+  skillImage: {fileID: 21300000, guid: 1a00333e489ae7743ba588316ca7f8fd, type: 3}
+  skillSO: {fileID: 11400000, guid: 9b18d73231cabd342965bce64e63e9df, type: 2}

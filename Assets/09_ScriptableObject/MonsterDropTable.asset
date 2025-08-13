@@ -1,0 +1,554 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1312ddc1060d4970b15efe0f07b104f0, type: 3}
+  m_Name: MonsterDropTable
+  m_EditorClassIdentifier: 
+  MonsterDropList:
+  - MonsterName: Goblin
+    ItemDropList:
+    - chance: 0.0023
+      itemId: 0
+    - chance: 0.0023
+      itemId: 1
+    - chance: 0.0019
+      itemId: 2
+    - chance: 0.0019
+      itemId: 3
+    - chance: 0.002
+      itemId: 4
+    - chance: 0.0021
+      itemId: 5
+    - chance: 0.0019
+      itemId: 6
+    - chance: 0.0018
+      itemId: 7
+    - chance: 0.0019
+      itemId: 8
+    - chance: 0.0018
+      itemId: 9
+    - chance: 0.0019
+      itemId: 10
+    - chance: 0.0019
+      itemId: 11
+    - chance: 0.0018
+      itemId: 12
+    - chance: 0.0023
+      itemId: 14
+    - chance: 0.0023
+      itemId: 15
+    - chance: 0.0019
+      itemId: 16
+    - chance: 0.0019
+      itemId: 17
+    - chance: 0.002
+      itemId: 18
+    - chance: 0.0021
+      itemId: 19
+    - chance: 0.0019
+      itemId: 20
+    - chance: 0.0018
+      itemId: 21
+    - chance: 0.0019
+      itemId: 22
+    - chance: 0.0018
+      itemId: 23
+    - chance: 0.0019
+      itemId: 24
+    - chance: 0.0019
+      itemId: 25
+    - chance: 0.0018
+      itemId: 26
+    - chance: 0.0023
+      itemId: 27
+    - chance: 0.0019
+      itemId: 28
+    - chance: 0.0019
+      itemId: 29
+    - chance: 0.002
+      itemId: 30
+    - chance: 0.0023
+      itemId: 31
+    - chance: 0.0019
+      itemId: 32
+    - chance: 0.0019
+      itemId: 33
+    - chance: 0.002
+      itemId: 34
+    - chance: 0.0021
+      itemId: 35
+    - chance: 0.0043
+      itemId: 36
+    - chance: 0.0042
+      itemId: 37
+    DropGold: 2
+  - MonsterName: GoblinArcher
+    ItemDropList:
+    - chance: 0.0023
+      itemId: 0
+    - chance: 0.0023
+      itemId: 1
+    - chance: 0.0019
+      itemId: 2
+    - chance: 0.0019
+      itemId: 3
+    - chance: 0.002
+      itemId: 4
+    - chance: 0.0021
+      itemId: 5
+    - chance: 0.0019
+      itemId: 6
+    - chance: 0.0018
+      itemId: 7
+    - chance: 0.0019
+      itemId: 8
+    - chance: 0.0018
+      itemId: 9
+    - chance: 0.0019
+      itemId: 10
+    - chance: 0.0019
+      itemId: 11
+    - chance: 0.0018
+      itemId: 12
+    - chance: 0.0023
+      itemId: 14
+    - chance: 0.0023
+      itemId: 15
+    - chance: 0.0019
+      itemId: 16
+    - chance: 0.0019
+      itemId: 17
+    - chance: 0.002
+      itemId: 18
+    - chance: 0.0021
+      itemId: 19
+    - chance: 0.0019
+      itemId: 20
+    - chance: 0.0018
+      itemId: 21
+    - chance: 0.0019
+      itemId: 22
+    - chance: 0.0018
+      itemId: 23
+    - chance: 0.0019
+      itemId: 24
+    - chance: 0.0019
+      itemId: 25
+    - chance: 0.0018
+      itemId: 26
+    - chance: 0.0023
+      itemId: 27
+    - chance: 0.0019
+      itemId: 28
+    - chance: 0.0019
+      itemId: 29
+    - chance: 0.002
+      itemId: 30
+    - chance: 0.0023
+      itemId: 31
+    - chance: 0.0019
+      itemId: 32
+    - chance: 0.0019
+      itemId: 33
+    - chance: 0.002
+      itemId: 34
+    - chance: 0.0021
+      itemId: 35
+    - chance: 0.0043
+      itemId: 36
+    - chance: 0.0042
+      itemId: 37
+    DropGold: 2
+  - MonsterName: GoblinMage
+    ItemDropList:
+    - chance: 0.0023
+      itemId: 0
+    - chance: 0.0023
+      itemId: 1
+    - chance: 0.0019
+      itemId: 2
+    - chance: 0.0019
+      itemId: 3
+    - chance: 0.002
+      itemId: 4
+    - chance: 0.0021
+      itemId: 5
+    - chance: 0.0019
+      itemId: 6
+    - chance: 0.0018
+      itemId: 7
+    - chance: 0.0019
+      itemId: 8
+    - chance: 0.0018
+      itemId: 9
+    - chance: 0.0019
+      itemId: 10
+    - chance: 0.0019
+      itemId: 11
+    - chance: 0.0018
+      itemId: 12
+    - chance: 0.0023
+      itemId: 14
+    - chance: 0.0023
+      itemId: 15
+    - chance: 0.0019
+      itemId: 16
+    - chance: 0.0019
+      itemId: 17
+    - chance: 0.002
+      itemId: 18
+    - chance: 0.0021
+      itemId: 19
+    - chance: 0.0019
+      itemId: 20
+    - chance: 0.0018
+      itemId: 21
+    - chance: 0.0019
+      itemId: 22
+    - chance: 0.0018
+      itemId: 23
+    - chance: 0.0019
+      itemId: 24
+    - chance: 0.0019
+      itemId: 25
+    - chance: 0.0018
+      itemId: 26
+    - chance: 0.0023
+      itemId: 27
+    - chance: 0.0019
+      itemId: 28
+    - chance: 0.0019
+      itemId: 29
+    - chance: 0.002
+      itemId: 30
+    - chance: 0.0023
+      itemId: 31
+    - chance: 0.0019
+      itemId: 32
+    - chance: 0.0019
+      itemId: 33
+    - chance: 0.002
+      itemId: 34
+    - chance: 0.0021
+      itemId: 35
+    - chance: 0.0043
+      itemId: 36
+    - chance: 0.0042
+      itemId: 37
+    DropGold: 2
+  - MonsterName: Skeleton
+    ItemDropList:
+    - chance: 0.0023
+      itemId: 0
+    - chance: 0.0023
+      itemId: 1
+    - chance: 0.0019
+      itemId: 2
+    - chance: 0.0019
+      itemId: 3
+    - chance: 0.002
+      itemId: 4
+    - chance: 0.0021
+      itemId: 5
+    - chance: 0.0019
+      itemId: 6
+    - chance: 0.0018
+      itemId: 7
+    - chance: 0.0019
+      itemId: 8
+    - chance: 0.0018
+      itemId: 9
+    - chance: 0.0019
+      itemId: 10
+    - chance: 0.0019
+      itemId: 11
+    - chance: 0.0018
+      itemId: 12
+    - chance: 0.0023
+      itemId: 14
+    - chance: 0.0023
+      itemId: 15
+    - chance: 0.0019
+      itemId: 16
+    - chance: 0.0019
+      itemId: 17
+    - chance: 0.002
+      itemId: 18
+    - chance: 0.0021
+      itemId: 19
+    - chance: 0.0019
+      itemId: 20
+    - chance: 0.0018
+      itemId: 21
+    - chance: 0.0019
+      itemId: 22
+    - chance: 0.0018
+      itemId: 23
+    - chance: 0.0019
+      itemId: 24
+    - chance: 0.0019
+      itemId: 25
+    - chance: 0.0018
+      itemId: 26
+    - chance: 0.0023
+      itemId: 27
+    - chance: 0.0019
+      itemId: 28
+    - chance: 0.0019
+      itemId: 29
+    - chance: 0.002
+      itemId: 30
+    - chance: 0.0023
+      itemId: 31
+    - chance: 0.0019
+      itemId: 32
+    - chance: 0.0019
+      itemId: 33
+    - chance: 0.002
+      itemId: 34
+    - chance: 0.0021
+      itemId: 35
+    - chance: 0.0043
+      itemId: 36
+    - chance: 0.0042
+      itemId: 37
+    DropGold: 3
+  - MonsterName: Enemy01
+    ItemDropList:
+    - chance: 0.0023
+      itemId: 0
+    - chance: 0.0023
+      itemId: 1
+    - chance: 0.0019
+      itemId: 2
+    - chance: 0.0019
+      itemId: 3
+    - chance: 0.002
+      itemId: 4
+    - chance: 0.0021
+      itemId: 5
+    - chance: 0.0019
+      itemId: 6
+    - chance: 0.0018
+      itemId: 7
+    - chance: 0.0019
+      itemId: 8
+    - chance: 0.0018
+      itemId: 9
+    - chance: 0.0019
+      itemId: 10
+    - chance: 0.0019
+      itemId: 11
+    - chance: 0.0018
+      itemId: 12
+    - chance: 0.0023
+      itemId: 14
+    - chance: 0.0023
+      itemId: 15
+    - chance: 0.0019
+      itemId: 16
+    - chance: 0.0019
+      itemId: 17
+    - chance: 0.002
+      itemId: 18
+    - chance: 0.0021
+      itemId: 19
+    - chance: 0.0019
+      itemId: 20
+    - chance: 0.0018
+      itemId: 21
+    - chance: 0.0019
+      itemId: 22
+    - chance: 0.0018
+      itemId: 23
+    - chance: 0.0019
+      itemId: 24
+    - chance: 0.0019
+      itemId: 25
+    - chance: 0.0018
+      itemId: 26
+    - chance: 0.0023
+      itemId: 27
+    - chance: 0.0019
+      itemId: 28
+    - chance: 0.0019
+      itemId: 29
+    - chance: 0.002
+      itemId: 30
+    - chance: 0.0023
+      itemId: 31
+    - chance: 0.0019
+      itemId: 32
+    - chance: 0.0019
+      itemId: 33
+    - chance: 0.002
+      itemId: 34
+    - chance: 0.0021
+      itemId: 35
+    - chance: 0.0043
+      itemId: 36
+    - chance: 0.0042
+      itemId: 37
+    DropGold: 3
+  - MonsterName: SkeletonRed
+    ItemDropList:
+    - chance: 0.0023
+      itemId: 0
+    - chance: 0.0023
+      itemId: 1
+    - chance: 0.0019
+      itemId: 2
+    - chance: 0.0019
+      itemId: 3
+    - chance: 0.002
+      itemId: 4
+    - chance: 0.0021
+      itemId: 5
+    - chance: 0.0019
+      itemId: 6
+    - chance: 0.0018
+      itemId: 7
+    - chance: 0.0019
+      itemId: 8
+    - chance: 0.0018
+      itemId: 9
+    - chance: 0.0019
+      itemId: 10
+    - chance: 0.0019
+      itemId: 11
+    - chance: 0.0018
+      itemId: 12
+    - chance: 0.0023
+      itemId: 14
+    - chance: 0.0023
+      itemId: 15
+    - chance: 0.0019
+      itemId: 16
+    - chance: 0.0019
+      itemId: 17
+    - chance: 0.002
+      itemId: 18
+    - chance: 0.0021
+      itemId: 19
+    - chance: 0.0019
+      itemId: 20
+    - chance: 0.0018
+      itemId: 21
+    - chance: 0.0019
+      itemId: 22
+    - chance: 0.0018
+      itemId: 23
+    - chance: 0.0019
+      itemId: 24
+    - chance: 0.0019
+      itemId: 25
+    - chance: 0.0018
+      itemId: 26
+    - chance: 0.0023
+      itemId: 27
+    - chance: 0.0019
+      itemId: 28
+    - chance: 0.0019
+      itemId: 29
+    - chance: 0.002
+      itemId: 30
+    - chance: 0.0023
+      itemId: 31
+    - chance: 0.0019
+      itemId: 32
+    - chance: 0.0019
+      itemId: 33
+    - chance: 0.002
+      itemId: 34
+    - chance: 0.0021
+      itemId: 35
+    - chance: 0.0043
+      itemId: 36
+    - chance: 0.0042
+      itemId: 37
+    DropGold: 4
+  - MonsterName: GoblinKnight
+    ItemDropList:
+    - chance: 0.0023
+      itemId: 0
+    - chance: 0.0023
+      itemId: 1
+    - chance: 0.0019
+      itemId: 2
+    - chance: 0.0019
+      itemId: 3
+    - chance: 0.002
+      itemId: 4
+    - chance: 0.0021
+      itemId: 5
+    - chance: 0.0019
+      itemId: 6
+    - chance: 0.0018
+      itemId: 7
+    - chance: 0.0019
+      itemId: 8
+    - chance: 0.0018
+      itemId: 9
+    - chance: 0.0019
+      itemId: 10
+    - chance: 0.0019
+      itemId: 11
+    - chance: 0.0018
+      itemId: 12
+    - chance: 0.0023
+      itemId: 14
+    - chance: 0.0023
+      itemId: 15
+    - chance: 0.0019
+      itemId: 16
+    - chance: 0.0019
+      itemId: 17
+    - chance: 0.002
+      itemId: 18
+    - chance: 0.0021
+      itemId: 19
+    - chance: 0.0019
+      itemId: 20
+    - chance: 0.0018
+      itemId: 21
+    - chance: 0.0019
+      itemId: 22
+    - chance: 0.0018
+      itemId: 23
+    - chance: 0.0019
+      itemId: 24
+    - chance: 0.0019
+      itemId: 25
+    - chance: 0.0018
+      itemId: 26
+    - chance: 0.0023
+      itemId: 27
+    - chance: 0.0019
+      itemId: 28
+    - chance: 0.0019
+      itemId: 29
+    - chance: 0.002
+      itemId: 30
+    - chance: 0.0023
+      itemId: 31
+    - chance: 0.0019
+      itemId: 32
+    - chance: 0.0019
+      itemId: 33
+    - chance: 0.002
+      itemId: 34
+    - chance: 0.0021
+      itemId: 35
+    - chance: 0.0043
+      itemId: 36
+    - chance: 0.0042
+      itemId: 37
+    DropGold: 8

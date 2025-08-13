@@ -1,0 +1,415 @@
+folder_path,file_name,full_path,relative_path 
+BGM,Pixel 1.wav,E:/game/FinalProject/Assets/06_Sounds/BGM/Pixel 1.wav,BGM/Pixel 1.wav
+BGM,Pixel 10.wav,E:/game/FinalProject/Assets/06_Sounds/BGM/Pixel 10.wav,BGM/Pixel 10.wav
+BGM,Pixel 11.wav,E:/game/FinalProject/Assets/06_Sounds/BGM/Pixel 11.wav,BGM/Pixel 11.wav
+BGM,Pixel 12.wav,E:/game/FinalProject/Assets/06_Sounds/BGM/Pixel 12.wav,BGM/Pixel 12.wav
+BGM,Pixel 2.wav,E:/game/FinalProject/Assets/06_Sounds/BGM/Pixel 2.wav,BGM/Pixel 2.wav
+BGM,Pixel 3.wav,E:/game/FinalProject/Assets/06_Sounds/BGM/Pixel 3.wav,BGM/Pixel 3.wav
+BGM,Pixel 4.wav,E:/game/FinalProject/Assets/06_Sounds/BGM/Pixel 4.wav,BGM/Pixel 4.wav
+BGM,Pixel 5.wav,E:/game/FinalProject/Assets/06_Sounds/BGM/Pixel 5.wav,BGM/Pixel 5.wav
+BGM,Pixel 6.wav,E:/game/FinalProject/Assets/06_Sounds/BGM/Pixel 6.wav,BGM/Pixel 6.wav
+BGM,Pixel 7.wav,E:/game/FinalProject/Assets/06_Sounds/BGM/Pixel 7.wav,BGM/Pixel 7.wav
+BGM,Pixel 8.wav,E:/game/FinalProject/Assets/06_Sounds/BGM/Pixel 8.wav,BGM/Pixel 8.wav
+BGM,Pixel 9.wav,E:/game/FinalProject/Assets/06_Sounds/BGM/Pixel 9.wav,BGM/Pixel 9.wav
+SFX/Anime,SFX_Vefects_Anime_Stylized_Arrow_Shot_Cast.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Anime/SFX_Vefects_Anime_Stylized_Arrow_Shot_Cast.wav,SFX/Anime/SFX_Vefects_Anime_Stylized_Arrow_Shot_Cast.wav
+SFX/Anime,SFX_Vefects_Anime_Stylized_Arrow_Shot_Hit.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Anime/SFX_Vefects_Anime_Stylized_Arrow_Shot_Hit.wav,SFX/Anime/SFX_Vefects_Anime_Stylized_Arrow_Shot_Hit.wav
+SFX/Anime,SFX_Vefects_Anime_Stylized_Basic_Attack.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Anime/SFX_Vefects_Anime_Stylized_Basic_Attack.wav,SFX/Anime/SFX_Vefects_Anime_Stylized_Basic_Attack.wav
+SFX/Anime,SFX_Vefects_Anime_Stylized_Bomb_Bounce.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Anime/SFX_Vefects_Anime_Stylized_Bomb_Bounce.wav,SFX/Anime/SFX_Vefects_Anime_Stylized_Bomb_Bounce.wav
+SFX/Anime,SFX_Vefects_Anime_Stylized_Bomb_Cast.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Anime/SFX_Vefects_Anime_Stylized_Bomb_Cast.wav,SFX/Anime/SFX_Vefects_Anime_Stylized_Bomb_Cast.wav
+SFX/Anime,SFX_Vefects_Anime_Stylized_Bomb_Explosion.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Anime/SFX_Vefects_Anime_Stylized_Bomb_Explosion.wav,SFX/Anime/SFX_Vefects_Anime_Stylized_Bomb_Explosion.wav
+SFX/Anime,SFX_Vefects_Anime_Stylized_Bomb_Launch.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Anime/SFX_Vefects_Anime_Stylized_Bomb_Launch.wav,SFX/Anime/SFX_Vefects_Anime_Stylized_Bomb_Launch.wav
+SFX/Anime,SFX_Vefects_Anime_Stylized_Bomb_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Anime/SFX_Vefects_Anime_Stylized_Bomb_Loop.wav,SFX/Anime/SFX_Vefects_Anime_Stylized_Bomb_Loop.wav
+SFX/Anime,SFX_Vefects_Anime_Stylized_Buff_Cast.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Anime/SFX_Vefects_Anime_Stylized_Buff_Cast.wav,SFX/Anime/SFX_Vefects_Anime_Stylized_Buff_Cast.wav
+SFX/Anime,SFX_Vefects_Anime_Stylized_Buff_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Anime/SFX_Vefects_Anime_Stylized_Buff_Loop.wav,SFX/Anime/SFX_Vefects_Anime_Stylized_Buff_Loop.wav
+SFX/Anime,SFX_Vefects_Anime_Stylized_Dash.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Anime/SFX_Vefects_Anime_Stylized_Dash.wav,SFX/Anime/SFX_Vefects_Anime_Stylized_Dash.wav
+SFX/Anime,SFX_Vefects_Anime_Stylized_Debuff_Cast.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Anime/SFX_Vefects_Anime_Stylized_Debuff_Cast.wav,SFX/Anime/SFX_Vefects_Anime_Stylized_Debuff_Cast.wav
+SFX/Anime,SFX_Vefects_Anime_Stylized_Debuff_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Anime/SFX_Vefects_Anime_Stylized_Debuff_Loop.wav,SFX/Anime/SFX_Vefects_Anime_Stylized_Debuff_Loop.wav
+SFX/Anime,SFX_Vefects_Anime_Stylized_Explosion.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Anime/SFX_Vefects_Anime_Stylized_Explosion.wav,SFX/Anime/SFX_Vefects_Anime_Stylized_Explosion.wav
+SFX/Anime,SFX_Vefects_Anime_Stylized_Explosion_Ice.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Anime/SFX_Vefects_Anime_Stylized_Explosion_Ice.wav,SFX/Anime/SFX_Vefects_Anime_Stylized_Explosion_Ice.wav
+SFX/Anime,SFX_Vefects_Anime_Stylized_FireBall_Cast.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Anime/SFX_Vefects_Anime_Stylized_FireBall_Cast.wav,SFX/Anime/SFX_Vefects_Anime_Stylized_FireBall_Cast.wav
+SFX/Anime,SFX_Vefects_Anime_Stylized_FireBall_Hit.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Anime/SFX_Vefects_Anime_Stylized_FireBall_Hit.wav,SFX/Anime/SFX_Vefects_Anime_Stylized_FireBall_Hit.wav
+SFX/Anime,SFX_Vefects_Anime_Stylized_FireBall_Projectile.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Anime/SFX_Vefects_Anime_Stylized_FireBall_Projectile.wav,SFX/Anime/SFX_Vefects_Anime_Stylized_FireBall_Projectile.wav
+SFX/Anime,SFX_Vefects_Anime_Stylized_Gun_Shot.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Anime/SFX_Vefects_Anime_Stylized_Gun_Shot.wav,SFX/Anime/SFX_Vefects_Anime_Stylized_Gun_Shot.wav
+SFX/Anime,SFX_Vefects_Anime_Stylized_Gun_Shot_Impact.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Anime/SFX_Vefects_Anime_Stylized_Gun_Shot_Impact.wav,SFX/Anime/SFX_Vefects_Anime_Stylized_Gun_Shot_Impact.wav
+SFX/Anime,SFX_Vefects_Anime_Stylized_Heal_Cast.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Anime/SFX_Vefects_Anime_Stylized_Heal_Cast.wav,SFX/Anime/SFX_Vefects_Anime_Stylized_Heal_Cast.wav
+SFX/Anime,SFX_Vefects_Anime_Stylized_Heal_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Anime/SFX_Vefects_Anime_Stylized_Heal_Loop.wav,SFX/Anime/SFX_Vefects_Anime_Stylized_Heal_Loop.wav
+SFX/Anime,SFX_Vefects_Anime_Stylized_Lightning_Cast.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Anime/SFX_Vefects_Anime_Stylized_Lightning_Cast.wav,SFX/Anime/SFX_Vefects_Anime_Stylized_Lightning_Cast.wav
+SFX/Anime,SFX_Vefects_Anime_Stylized_Lightning_Hit.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Anime/SFX_Vefects_Anime_Stylized_Lightning_Hit.wav,SFX/Anime/SFX_Vefects_Anime_Stylized_Lightning_Hit.wav
+SFX/Anime,SFX_Vefects_Anime_Stylized_Lightning_Launch.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Anime/SFX_Vefects_Anime_Stylized_Lightning_Launch.wav,SFX/Anime/SFX_Vefects_Anime_Stylized_Lightning_Launch.wav
+SFX/Anime,SFX_Vefects_Anime_Stylized_Pick_Up.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Anime/SFX_Vefects_Anime_Stylized_Pick_Up.wav,SFX/Anime/SFX_Vefects_Anime_Stylized_Pick_Up.wav
+SFX/Anime,SFX_Vefects_Anime_Stylized_Pick_Up_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Anime/SFX_Vefects_Anime_Stylized_Pick_Up_Loop.wav,SFX/Anime/SFX_Vefects_Anime_Stylized_Pick_Up_Loop.wav
+SFX/Anime/Demo,SFX_Vefects_Anime_Stylized_Demo_Arrow_Shot.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Anime/Demo/SFX_Vefects_Anime_Stylized_Demo_Arrow_Shot.wav,SFX/Anime/Demo/SFX_Vefects_Anime_Stylized_Demo_Arrow_Shot.wav
+SFX/Anime/Demo,SFX_Vefects_Anime_Stylized_Demo_Bomb.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Anime/Demo/SFX_Vefects_Anime_Stylized_Demo_Bomb.wav,SFX/Anime/Demo/SFX_Vefects_Anime_Stylized_Demo_Bomb.wav
+SFX/Anime/Demo,SFX_Vefects_Anime_Stylized_Demo_FireBall.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Anime/Demo/SFX_Vefects_Anime_Stylized_Demo_FireBall.wav,SFX/Anime/Demo/SFX_Vefects_Anime_Stylized_Demo_FireBall.wav
+SFX/Anime/Demo,SFX_Vefects_Anime_Stylized_Demo_Gun_Shot.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Anime/Demo/SFX_Vefects_Anime_Stylized_Demo_Gun_Shot.wav,SFX/Anime/Demo/SFX_Vefects_Anime_Stylized_Demo_Gun_Shot.wav
+SFX/Anime/Demo,SFX_Vefects_Anime_Stylized_Demo_Lightning.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Anime/Demo/SFX_Vefects_Anime_Stylized_Demo_Lightning.wav,SFX/Anime/Demo/SFX_Vefects_Anime_Stylized_Demo_Lightning.wav
+SFX/Blood,SFX_Vefects_Blood_Bullet_Hit.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Blood/SFX_Vefects_Blood_Bullet_Hit.wav,SFX/Blood/SFX_Vefects_Blood_Bullet_Hit.wav
+SFX/Blood,SFX_Vefects_Blood_Burst.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Blood/SFX_Vefects_Blood_Burst.wav,SFX/Blood/SFX_Vefects_Blood_Burst.wav
+SFX/Blood,SFX_Vefects_Blood_Drip.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Blood/SFX_Vefects_Blood_Drip.wav,SFX/Blood/SFX_Vefects_Blood_Drip.wav
+SFX/Blood,SFX_Vefects_Blood_Slashes.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Blood/SFX_Vefects_Blood_Slashes.wav,SFX/Blood/SFX_Vefects_Blood_Slashes.wav
+SFX/Blood,SFX_Vefects_Blood_Splashes.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Blood/SFX_Vefects_Blood_Splashes.wav,SFX/Blood/SFX_Vefects_Blood_Splashes.wav
+SFX/Blood,SFX_Vefects_Blood_Underwater.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Blood/SFX_Vefects_Blood_Underwater.wav,SFX/Blood/SFX_Vefects_Blood_Underwater.wav
+SFX/Blood,SFX_Vefects_Blood_Wounds.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Blood/SFX_Vefects_Blood_Wounds.wav,SFX/Blood/SFX_Vefects_Blood_Wounds.wav
+SFX/Candle,SFX_Vefects_Candle_Crackling_Loop_01.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Candle/SFX_Vefects_Candle_Crackling_Loop_01.wav,SFX/Candle/SFX_Vefects_Candle_Crackling_Loop_01.wav
+SFX/CutSound,SFX_Vefects_Stylized_Magic_Attack_Dark_Cast.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/CutSound/SFX_Vefects_Stylized_Magic_Attack_Dark_Cast.wav,SFX/CutSound/SFX_Vefects_Stylized_Magic_Attack_Dark_Cast.wav
+SFX/CutSound,SFX_Vefects_Stylized_Magic_Attack_Electric_Cast.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/CutSound/SFX_Vefects_Stylized_Magic_Attack_Electric_Cast.wav,SFX/CutSound/SFX_Vefects_Stylized_Magic_Attack_Electric_Cast.wav
+SFX/CutSound,SFX_Vefects_Stylized_Magic_Attack_Ice_Cast.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/CutSound/SFX_Vefects_Stylized_Magic_Attack_Ice_Cast.wav,SFX/CutSound/SFX_Vefects_Stylized_Magic_Attack_Ice_Cast.wav
+SFX/CutSound,SFX_Vefects_Stylized_Magic_Attack_Nature_Cast.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/CutSound/SFX_Vefects_Stylized_Magic_Attack_Nature_Cast.wav,SFX/CutSound/SFX_Vefects_Stylized_Magic_Attack_Nature_Cast.wav
+SFX/DarkPortal,SFX_Vefects_Dark_Portal_Fade_In_01.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/DarkPortal/SFX_Vefects_Dark_Portal_Fade_In_01.wav,SFX/DarkPortal/SFX_Vefects_Dark_Portal_Fade_In_01.wav
+SFX/DarkPortal,SFX_Vefects_Dark_Portal_Fade_Out_01.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/DarkPortal/SFX_Vefects_Dark_Portal_Fade_Out_01.wav,SFX/DarkPortal/SFX_Vefects_Dark_Portal_Fade_Out_01.wav
+SFX/DarkPortal,SFX_Vefects_Dark_Portal_Loop_01.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/DarkPortal/SFX_Vefects_Dark_Portal_Loop_01.wav,SFX/DarkPortal/SFX_Vefects_Dark_Portal_Loop_01.wav
+SFX/DarkPortal,SFX_Vefects_Dark_Portal_One_Shot_01.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/DarkPortal/SFX_Vefects_Dark_Portal_One_Shot_01.wav,SFX/DarkPortal/SFX_Vefects_Dark_Portal_One_Shot_01.wav
+SFX/Explosions,SFX_Vefects_Explosion_Artillery.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Explosions/SFX_Vefects_Explosion_Artillery.wav,SFX/Explosions/SFX_Vefects_Explosion_Artillery.wav
+SFX/Explosions,SFX_Vefects_Explosion_Black.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Explosions/SFX_Vefects_Explosion_Black.wav,SFX/Explosions/SFX_Vefects_Explosion_Black.wav
+SFX/Explosions,SFX_Vefects_Explosion_Electric.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Explosions/SFX_Vefects_Explosion_Electric.wav,SFX/Explosions/SFX_Vefects_Explosion_Electric.wav
+SFX/Explosions,SFX_Vefects_Explosion_Gas.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Explosions/SFX_Vefects_Explosion_Gas.wav,SFX/Explosions/SFX_Vefects_Explosion_Gas.wav
+SFX/Explosions,SFX_Vefects_Explosion_Gasoline.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Explosions/SFX_Vefects_Explosion_Gasoline.wav,SFX/Explosions/SFX_Vefects_Explosion_Gasoline.wav
+SFX/Explosions,SFX_Vefects_Explosion_Generic.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Explosions/SFX_Vefects_Explosion_Generic.wav,SFX/Explosions/SFX_Vefects_Explosion_Generic.wav
+SFX/Explosions,SFX_Vefects_Explosion_Grenade.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Explosions/SFX_Vefects_Explosion_Grenade.wav,SFX/Explosions/SFX_Vefects_Explosion_Grenade.wav
+SFX/Explosions,SFX_Vefects_Explosion_Hellfire.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Explosions/SFX_Vefects_Explosion_Hellfire.wav,SFX/Explosions/SFX_Vefects_Explosion_Hellfire.wav
+SFX/Explosions,SFX_Vefects_Explosion_Incendiary.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Explosions/SFX_Vefects_Explosion_Incendiary.wav,SFX/Explosions/SFX_Vefects_Explosion_Incendiary.wav
+SFX/Explosions,SFX_Vefects_Explosion_Thermite.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Explosions/SFX_Vefects_Explosion_Thermite.wav,SFX/Explosions/SFX_Vefects_Explosion_Thermite.wav
+SFX/Explosions,SFX_Vefects_Explosion_Water.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Explosions/SFX_Vefects_Explosion_Water.wav,SFX/Explosions/SFX_Vefects_Explosion_Water.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Charge_01.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Charge_01.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Charge_01.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Charge_02.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Charge_02.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Charge_02.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Dust_Puff_01.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Dust_Puff_01.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Dust_Puff_01.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Dust_Puff_02.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Dust_Puff_02.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Dust_Puff_02.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Dust_Puff_03.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Dust_Puff_03.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Dust_Puff_03.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Explosion_Classic.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Explosion_Classic.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Explosion_Classic.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Explosion_Fire.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Explosion_Fire.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Explosion_Fire.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Explosion_Magic_01.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Explosion_Magic_01.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Explosion_Magic_01.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Explosion_Magic_02.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Explosion_Magic_02.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Explosion_Magic_02.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Explosion_Magic_03.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Explosion_Magic_03.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Explosion_Magic_03.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Explosion_Poison.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Explosion_Poison.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Explosion_Poison.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Fire_Big_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Fire_Big_Loop.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Fire_Big_Loop.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Fire_Burst_01.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Fire_Burst_01.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Fire_Burst_01.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Fire_Charge_01.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Fire_Charge_01.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Fire_Charge_01.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Fire_Medium_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Fire_Medium_Loop.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Fire_Medium_Loop.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Fire_Small_L.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Fire_Small_L.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Fire_Small_L.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_GunShot_01.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_GunShot_01.wav,SFX/Flipbook/SFX_Vefects_Flipbook_GunShot_01.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_GunShot_02.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_GunShot_02.wav,SFX/Flipbook/SFX_Vefects_Flipbook_GunShot_02.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_GunShot_03.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_GunShot_03.wav,SFX/Flipbook/SFX_Vefects_Flipbook_GunShot_03.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Impact_01.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Impact_01.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Impact_01.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Impact_Blood_01.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Impact_Blood_01.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Impact_Blood_01.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Impact_Magic_01.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Impact_Magic_01.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Impact_Magic_01.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Lightning_01.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Lightning_01.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Lightning_01.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Lightning_02.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Lightning_02.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Lightning_02.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Liquid_Explosion_01.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Liquid_Explosion_01.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Liquid_Explosion_01.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Liquid_Explosion_02.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Liquid_Explosion_02.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Liquid_Explosion_02.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Liquid_Hit_01.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Liquid_Hit_01.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Liquid_Hit_01.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Liquid_Hit_02.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Liquid_Hit_02.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Liquid_Hit_02.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Liquid_Hit_03.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Liquid_Hit_03.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Liquid_Hit_03.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Liquid_Hit_04.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Liquid_Hit_04.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Liquid_Hit_04.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Liquid_Projectile_Loop_01.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Liquid_Projectile_Loop_01.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Liquid_Projectile_Loop_01.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Liquid_Projectile_Loop_02.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Liquid_Projectile_Loop_02.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Liquid_Projectile_Loop_02.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Liquid_Projectile_Loop_03.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Liquid_Projectile_Loop_03.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Liquid_Projectile_Loop_03.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Liquid_Puff_01.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Liquid_Puff_01.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Liquid_Puff_01.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Orb_Poison_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Orb_Poison_Loop.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Orb_Poison_Loop.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Orb_Psychic_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Orb_Psychic_Loop.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Orb_Psychic_Loop.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Orb_Water_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Orb_Water_Loop.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Orb_Water_Loop.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Poison_Puff_01.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Poison_Puff_01.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Poison_Puff_01.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Poison_Puff_02.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Poison_Puff_02.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Poison_Puff_02.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Poison_Puff_03.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Poison_Puff_03.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Poison_Puff_03.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Shrapnel_01.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Shrapnel_01.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Shrapnel_01.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Shrapnel_02.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Shrapnel_02.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Shrapnel_02.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Shrapnel_03.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Shrapnel_03.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Shrapnel_03.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Slash_Classic.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Slash_Classic.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Slash_Classic.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Slash_Fire.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Slash_Fire.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Slash_Fire.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Slash_Poison.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Slash_Poison.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Slash_Poison.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Smoke_Classic_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Smoke_Classic_Loop.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Smoke_Classic_Loop.wav
+SFX/Flipbook,SFX_Vefects_Flipbook_Smoke_Poison_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Flipbook/SFX_Vefects_Flipbook_Smoke_Poison_Loop.wav,SFX/Flipbook/SFX_Vefects_Flipbook_Smoke_Poison_Loop.wav
+SFX/FreeFire,SFX_Vefects_Fire_Big_L.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/FreeFire/SFX_Vefects_Fire_Big_L.wav,SFX/FreeFire/SFX_Vefects_Fire_Big_L.wav
+SFX/FreeFire,SFX_Vefects_Fire_Medium_L.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/FreeFire/SFX_Vefects_Fire_Medium_L.wav,SFX/FreeFire/SFX_Vefects_Fire_Medium_L.wav
+SFX/FreeFire,SFX_Vefects_Fire_Small_L.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/FreeFire/SFX_Vefects_Fire_Small_L.wav,SFX/FreeFire/SFX_Vefects_Fire_Small_L.wav
+SFX/ItemPickup,SFX_Vefects_Item_Common_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/ItemPickup/SFX_Vefects_Item_Common_Loop.wav,SFX/ItemPickup/SFX_Vefects_Item_Common_Loop.wav
+SFX/ItemPickup,SFX_Vefects_Item_Epic_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/ItemPickup/SFX_Vefects_Item_Epic_Loop.wav,SFX/ItemPickup/SFX_Vefects_Item_Epic_Loop.wav
+SFX/ItemPickup,SFX_Vefects_Item_Legendary_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/ItemPickup/SFX_Vefects_Item_Legendary_Loop.wav,SFX/ItemPickup/SFX_Vefects_Item_Legendary_Loop.wav
+SFX/ItemPickup,SFX_Vefects_Item_Rare_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/ItemPickup/SFX_Vefects_Item_Rare_Loop.wav,SFX/ItemPickup/SFX_Vefects_Item_Rare_Loop.wav
+SFX/ItemPickup,SFX_Vefects_Item_Uncommon_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/ItemPickup/SFX_Vefects_Item_Uncommon_Loop.wav,SFX/ItemPickup/SFX_Vefects_Item_Uncommon_Loop.wav
+SFX/ItemPickup,SFX_Vefects_Item_Unique_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/ItemPickup/SFX_Vefects_Item_Unique_Loop.wav,SFX/ItemPickup/SFX_Vefects_Item_Unique_Loop.wav
+SFX/LevelUp,SFX_Vefects_Level_Up_01.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/LevelUp/SFX_Vefects_Level_Up_01.wav,SFX/LevelUp/SFX_Vefects_Level_Up_01.wav
+SFX/LevelUp,SFX_Vefects_Level_Up_02.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/LevelUp/SFX_Vefects_Level_Up_02.wav,SFX/LevelUp/SFX_Vefects_Level_Up_02.wav
+SFX/LevelUp,SFX_Vefects_Level_Up_03.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/LevelUp/SFX_Vefects_Level_Up_03.wav,SFX/LevelUp/SFX_Vefects_Level_Up_03.wav
+SFX/Loot,SFX_Vefects_Loot_Common_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Loot/SFX_Vefects_Loot_Common_Loop.wav,SFX/Loot/SFX_Vefects_Loot_Common_Loop.wav
+SFX/Loot,SFX_Vefects_Loot_Epic_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Loot/SFX_Vefects_Loot_Epic_Loop.wav,SFX/Loot/SFX_Vefects_Loot_Epic_Loop.wav
+SFX/Loot,SFX_Vefects_Loot_Legendary_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Loot/SFX_Vefects_Loot_Legendary_Loop.wav,SFX/Loot/SFX_Vefects_Loot_Legendary_Loop.wav
+SFX/Loot,SFX_Vefects_Loot_Rare_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Loot/SFX_Vefects_Loot_Rare_Loop.wav,SFX/Loot/SFX_Vefects_Loot_Rare_Loop.wav
+SFX/Loot,SFX_Vefects_Loot_Uncommon_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Loot/SFX_Vefects_Loot_Uncommon_Loop.wav,SFX/Loot/SFX_Vefects_Loot_Uncommon_Loop.wav
+SFX/Loot,SFX_Vefects_Loot_Unique_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Loot/SFX_Vefects_Loot_Unique_Loop.wav,SFX/Loot/SFX_Vefects_Loot_Unique_Loop.wav
+SFX/RealisticWater,SFX_Vefects_Water_Calm_Water.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Calm_Water.wav,SFX/RealisticWater/SFX_Vefects_Water_Calm_Water.wav
+SFX/RealisticWater,SFX_Vefects_Water_Calm_Water_02.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Calm_Water_02.wav,SFX/RealisticWater/SFX_Vefects_Water_Calm_Water_02.wav
+SFX/RealisticWater,SFX_Vefects_Water_Calm_Water_02_Mono.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Calm_Water_02_Mono.wav,SFX/RealisticWater/SFX_Vefects_Water_Calm_Water_02_Mono.wav
+SFX/RealisticWater,SFX_Vefects_Water_Dripping_Big.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Dripping_Big.wav,SFX/RealisticWater/SFX_Vefects_Water_Dripping_Big.wav
+SFX/RealisticWater,SFX_Vefects_Water_Dripping_Small old.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Dripping_Small old.wav,SFX/RealisticWater/SFX_Vefects_Water_Dripping_Small old.wav
+SFX/RealisticWater,SFX_Vefects_Water_Dripping_Small.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Dripping_Small.wav,SFX/RealisticWater/SFX_Vefects_Water_Dripping_Small.wav
+SFX/RealisticWater,SFX_Vefects_Water_Farming_Sprinkler_Cast.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Farming_Sprinkler_Cast.wav,SFX/RealisticWater/SFX_Vefects_Water_Farming_Sprinkler_Cast.wav
+SFX/RealisticWater,SFX_Vefects_Water_Farming_Sprinkler_End.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Farming_Sprinkler_End.wav,SFX/RealisticWater/SFX_Vefects_Water_Farming_Sprinkler_End.wav
+SFX/RealisticWater,SFX_Vefects_Water_Farming_Sprinkler_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Farming_Sprinkler_Loop.wav,SFX/RealisticWater/SFX_Vefects_Water_Farming_Sprinkler_Loop.wav
+SFX/RealisticWater,SFX_Vefects_Water_Faucet_Main.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Faucet_Main.wav,SFX/RealisticWater/SFX_Vefects_Water_Faucet_Main.wav
+SFX/RealisticWater,SFX_Vefects_Water_Faucet_Surface_Cast.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Faucet_Surface_Cast.wav,SFX/RealisticWater/SFX_Vefects_Water_Faucet_Surface_Cast.wav
+SFX/RealisticWater,SFX_Vefects_Water_Faucet_Surface_End.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Faucet_Surface_End.wav,SFX/RealisticWater/SFX_Vefects_Water_Faucet_Surface_End.wav
+SFX/RealisticWater,SFX_Vefects_Water_Faucet_Surface_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Faucet_Surface_Loop.wav,SFX/RealisticWater/SFX_Vefects_Water_Faucet_Surface_Loop.wav
+SFX/RealisticWater,SFX_Vefects_Water_Faucet_Waterfall_Cast.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Faucet_Waterfall_Cast.wav,SFX/RealisticWater/SFX_Vefects_Water_Faucet_Waterfall_Cast.wav
+SFX/RealisticWater,SFX_Vefects_Water_Faucet_Waterfall_Cast_02.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Faucet_Waterfall_Cast_02.wav,SFX/RealisticWater/SFX_Vefects_Water_Faucet_Waterfall_Cast_02.wav
+SFX/RealisticWater,SFX_Vefects_Water_Faucet_Waterfall_End.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Faucet_Waterfall_End.wav,SFX/RealisticWater/SFX_Vefects_Water_Faucet_Waterfall_End.wav
+SFX/RealisticWater,SFX_Vefects_Water_Faucet_Waterfall_End_02.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Faucet_Waterfall_End_02.wav,SFX/RealisticWater/SFX_Vefects_Water_Faucet_Waterfall_End_02.wav
+SFX/RealisticWater,SFX_Vefects_Water_Faucet_Waterfall_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Faucet_Waterfall_Loop.wav,SFX/RealisticWater/SFX_Vefects_Water_Faucet_Waterfall_Loop.wav
+SFX/RealisticWater,SFX_Vefects_Water_Faucet_Waterfall_Loop_02.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Faucet_Waterfall_Loop_02.wav,SFX/RealisticWater/SFX_Vefects_Water_Faucet_Waterfall_Loop_02.wav
+SFX/RealisticWater,SFX_Vefects_Water_Fire_Alarm_Cast.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Fire_Alarm_Cast.wav,SFX/RealisticWater/SFX_Vefects_Water_Fire_Alarm_Cast.wav
+SFX/RealisticWater,SFX_Vefects_Water_Fire_Alarm_End.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Fire_Alarm_End.wav,SFX/RealisticWater/SFX_Vefects_Water_Fire_Alarm_End.wav
+SFX/RealisticWater,SFX_Vefects_Water_Fire_Alarm_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Fire_Alarm_Loop.wav,SFX/RealisticWater/SFX_Vefects_Water_Fire_Alarm_Loop.wav
+SFX/RealisticWater,SFX_Vefects_Water_Fire_Hydrant_Cast.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Fire_Hydrant_Cast.wav,SFX/RealisticWater/SFX_Vefects_Water_Fire_Hydrant_Cast.wav
+SFX/RealisticWater,SFX_Vefects_Water_Fire_Hydrant_End.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Fire_Hydrant_End.wav,SFX/RealisticWater/SFX_Vefects_Water_Fire_Hydrant_End.wav
+SFX/RealisticWater,SFX_Vefects_Water_Fire_Hydrant_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Fire_Hydrant_Loop.wav,SFX/RealisticWater/SFX_Vefects_Water_Fire_Hydrant_Loop.wav
+SFX/RealisticWater,SFX_Vefects_Water_Flowing_Water.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Flowing_Water.wav,SFX/RealisticWater/SFX_Vefects_Water_Flowing_Water.wav
+SFX/RealisticWater,SFX_Vefects_Water_Flowing_Water_02.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Flowing_Water_02.wav,SFX/RealisticWater/SFX_Vefects_Water_Flowing_Water_02.wav
+SFX/RealisticWater,SFX_Vefects_Water_Flowing_Water_02_Mono.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Flowing_Water_02_Mono.wav,SFX/RealisticWater/SFX_Vefects_Water_Flowing_Water_02_Mono.wav
+SFX/RealisticWater,SFX_Vefects_Water_Garden_Hose.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Garden_Hose.wav,SFX/RealisticWater/SFX_Vefects_Water_Garden_Hose.wav
+SFX/RealisticWater,SFX_Vefects_Water_Generic_Splash_Big.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Generic_Splash_Big.wav,SFX/RealisticWater/SFX_Vefects_Water_Generic_Splash_Big.wav
+SFX/RealisticWater,SFX_Vefects_Water_Generic_Splash_Small.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Generic_Splash_Small.wav,SFX/RealisticWater/SFX_Vefects_Water_Generic_Splash_Small.wav
+SFX/RealisticWater,SFX_Vefects_Water_Ground_Splash_Big.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Ground_Splash_Big.wav,SFX/RealisticWater/SFX_Vefects_Water_Ground_Splash_Big.wav
+SFX/RealisticWater,SFX_Vefects_Water_Ground_Splash_Small.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Ground_Splash_Small.wav,SFX/RealisticWater/SFX_Vefects_Water_Ground_Splash_Small.wav
+SFX/RealisticWater,SFX_Vefects_Water_Leaks_Cast.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Leaks_Cast.wav,SFX/RealisticWater/SFX_Vefects_Water_Leaks_Cast.wav
+SFX/RealisticWater,SFX_Vefects_Water_Leaks_End.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Leaks_End.wav,SFX/RealisticWater/SFX_Vefects_Water_Leaks_End.wav
+SFX/RealisticWater,SFX_Vefects_Water_Leaks_End_02.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Leaks_End_02.wav,SFX/RealisticWater/SFX_Vefects_Water_Leaks_End_02.wav
+SFX/RealisticWater,SFX_Vefects_Water_Ocean_Waves.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Ocean_Waves.wav,SFX/RealisticWater/SFX_Vefects_Water_Ocean_Waves.wav
+SFX/RealisticWater,SFX_Vefects_Water_Pressure_Washer.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Pressure_Washer.wav,SFX/RealisticWater/SFX_Vefects_Water_Pressure_Washer.wav
+SFX/RealisticWater,SFX_Vefects_Water_Pump_Cast.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Pump_Cast.wav,SFX/RealisticWater/SFX_Vefects_Water_Pump_Cast.wav
+SFX/RealisticWater,SFX_Vefects_Water_Pump_End.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Pump_End.wav,SFX/RealisticWater/SFX_Vefects_Water_Pump_End.wav
+SFX/RealisticWater,SFX_Vefects_Water_Pump_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Pump_Loop.wav,SFX/RealisticWater/SFX_Vefects_Water_Pump_Loop.wav
+SFX/RealisticWater,SFX_Vefects_Water_Rain_Camera.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Rain_Camera.wav,SFX/RealisticWater/SFX_Vefects_Water_Rain_Camera.wav
+SFX/RealisticWater,SFX_Vefects_Water_Rain_General.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Rain_General.wav,SFX/RealisticWater/SFX_Vefects_Water_Rain_General.wav
+SFX/RealisticWater,SFX_Vefects_Water_Shower_Drops.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Shower_Drops.wav,SFX/RealisticWater/SFX_Vefects_Water_Shower_Drops.wav
+SFX/RealisticWater,SFX_Vefects_Water_Shower_Head.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Shower_Head.wav,SFX/RealisticWater/SFX_Vefects_Water_Shower_Head.wav
+SFX/RealisticWater,SFX_Vefects_Water_Underwater_Bubble.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Underwater_Bubble.wav,SFX/RealisticWater/SFX_Vefects_Water_Underwater_Bubble.wav
+SFX/RealisticWater,SFX_Vefects_Water_Underwater_General.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Underwater_General.wav,SFX/RealisticWater/SFX_Vefects_Water_Underwater_General.wav
+SFX/RealisticWater,SFX_Vefects_Water_Waterfall.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/RealisticWater/SFX_Vefects_Water_Waterfall.wav,SFX/RealisticWater/SFX_Vefects_Water_Waterfall.wav
+SFX/Sand,SFX_Vefects_Sand_Floating_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Sand/SFX_Vefects_Sand_Floating_Loop.wav,SFX/Sand/SFX_Vefects_Sand_Floating_Loop.wav
+SFX/Sand,SFX_Vefects_Sand_Floating_Loop_Normalized.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Sand/SFX_Vefects_Sand_Floating_Loop_Normalized.wav,SFX/Sand/SFX_Vefects_Sand_Floating_Loop_Normalized.wav
+SFX/Sand,SFX_Vefects_Sand_Floating_Rock_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Sand/SFX_Vefects_Sand_Floating_Rock_Loop.wav,SFX/Sand/SFX_Vefects_Sand_Floating_Rock_Loop.wav
+SFX/Sand,SFX_Vefects_Sand_Floating_Rock_Loop_Normalized.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Sand/SFX_Vefects_Sand_Floating_Rock_Loop_Normalized.wav,SFX/Sand/SFX_Vefects_Sand_Floating_Rock_Loop_Normalized.wav
+SFX/Sand,SFX_Vefects_Sand_Rock_Eruption_Cast.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Sand/SFX_Vefects_Sand_Rock_Eruption_Cast.wav,SFX/Sand/SFX_Vefects_Sand_Rock_Eruption_Cast.wav
+SFX/Sand,SFX_Vefects_Sand_Rock_Eruption_Hit.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Sand/SFX_Vefects_Sand_Rock_Eruption_Hit.wav,SFX/Sand/SFX_Vefects_Sand_Rock_Eruption_Hit.wav
+SFX/Sand,SFX_Vefects_Sand_Rock_Hit_01.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Sand/SFX_Vefects_Sand_Rock_Hit_01.wav,SFX/Sand/SFX_Vefects_Sand_Rock_Hit_01.wav
+SFX/Sand,SFX_Vefects_Sand_Rock_Hit_02.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Sand/SFX_Vefects_Sand_Rock_Hit_02.wav,SFX/Sand/SFX_Vefects_Sand_Rock_Hit_02.wav
+SFX/Sand,SFX_Vefects_Sand_Sandstorm.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Sand/SFX_Vefects_Sand_Sandstorm.wav,SFX/Sand/SFX_Vefects_Sand_Sandstorm.wav
+SFX/Sand,SFX_Vefects_Sand_Slash_Down.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Sand/SFX_Vefects_Sand_Slash_Down.wav,SFX/Sand/SFX_Vefects_Sand_Slash_Down.wav
+SFX/Sand,SFX_Vefects_Sand_Slash_Up.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Sand/SFX_Vefects_Sand_Slash_Up.wav,SFX/Sand/SFX_Vefects_Sand_Slash_Up.wav
+SFX/Shots,SFX_Vefects_Shots_Destruction_Fruit.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Shots/SFX_Vefects_Shots_Destruction_Fruit.wav,SFX/Shots/SFX_Vefects_Shots_Destruction_Fruit.wav
+SFX/Shots,SFX_Vefects_Shots_Destruction_Glass.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Shots/SFX_Vefects_Shots_Destruction_Glass.wav,SFX/Shots/SFX_Vefects_Shots_Destruction_Glass.wav
+SFX/Shots,SFX_Vefects_Shots_Destruction_Paper.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Shots/SFX_Vefects_Shots_Destruction_Paper.wav,SFX/Shots/SFX_Vefects_Shots_Destruction_Paper.wav
+SFX/Shots,SFX_Vefects_Shots_Squib_Concrete.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Shots/SFX_Vefects_Shots_Squib_Concrete.wav,SFX/Shots/SFX_Vefects_Shots_Squib_Concrete.wav
+SFX/Shots,SFX_Vefects_Shots_Squib_Dirt.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Shots/SFX_Vefects_Shots_Squib_Dirt.wav,SFX/Shots/SFX_Vefects_Shots_Squib_Dirt.wav
+SFX/Shots,SFX_Vefects_Shots_Squib_Fabric.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Shots/SFX_Vefects_Shots_Squib_Fabric.wav,SFX/Shots/SFX_Vefects_Shots_Squib_Fabric.wav
+SFX/Shots,SFX_Vefects_Shots_Squib_Glass.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Shots/SFX_Vefects_Shots_Squib_Glass.wav,SFX/Shots/SFX_Vefects_Shots_Squib_Glass.wav
+SFX/Shots,SFX_Vefects_Shots_Squib_Hedge.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Shots/SFX_Vefects_Shots_Squib_Hedge.wav,SFX/Shots/SFX_Vefects_Shots_Squib_Hedge.wav
+SFX/Shots,SFX_Vefects_Shots_Squib_Mud.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Shots/SFX_Vefects_Shots_Squib_Mud.wav,SFX/Shots/SFX_Vefects_Shots_Squib_Mud.wav
+SFX/Shots,SFX_Vefects_Shots_Squib_Rock.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Shots/SFX_Vefects_Shots_Squib_Rock.wav,SFX/Shots/SFX_Vefects_Shots_Squib_Rock.wav
+SFX/Shots,SFX_Vefects_Shots_Squib_Sand.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Shots/SFX_Vefects_Shots_Squib_Sand.wav,SFX/Shots/SFX_Vefects_Shots_Squib_Sand.wav
+SFX/Shots,SFX_Vefects_Shots_Squib_Snow.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Shots/SFX_Vefects_Shots_Squib_Snow.wav,SFX/Shots/SFX_Vefects_Shots_Squib_Snow.wav
+SFX/Shots,SFX_Vefects_Shots_Squib_Water.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Shots/SFX_Vefects_Shots_Squib_Water.wav,SFX/Shots/SFX_Vefects_Shots_Squib_Water.wav
+SFX/Shots,SFX_Vefects_Shots_Squib_Wood.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Shots/SFX_Vefects_Shots_Squib_Wood.wav,SFX/Shots/SFX_Vefects_Shots_Squib_Wood.wav
+SFX/Shots,SFX_Vefects_Shots_Weapon_Hand_Gun.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Shots/SFX_Vefects_Shots_Weapon_Hand_Gun.wav,SFX/Shots/SFX_Vefects_Shots_Weapon_Hand_Gun.wav
+SFX/Shots,SFX_Vefects_Shots_Weapon_Hand_Gun_Silenced.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Shots/SFX_Vefects_Shots_Weapon_Hand_Gun_Silenced.wav,SFX/Shots/SFX_Vefects_Shots_Weapon_Hand_Gun_Silenced.wav
+SFX/Shots,SFX_Vefects_Shots_Weapon_Rifle.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Shots/SFX_Vefects_Shots_Weapon_Rifle.wav,SFX/Shots/SFX_Vefects_Shots_Weapon_Rifle.wav
+SFX/Shots,SFX_Vefects_Shots_Weapon_Rifle_Silenced.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Shots/SFX_Vefects_Shots_Weapon_Rifle_Silenced.wav,SFX/Shots/SFX_Vefects_Shots_Weapon_Rifle_Silenced.wav
+SFX/Shots,SFX_Vefects_Shots_Weapon_Shotgun.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Shots/SFX_Vefects_Shots_Weapon_Shotgun.wav,SFX/Shots/SFX_Vefects_Shots_Weapon_Shotgun.wav
+SFX/Shots,SFX_Vefects_Shots_Weapon_Shotgun_Silenced.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Shots/SFX_Vefects_Shots_Weapon_Shotgun_Silenced.wav,SFX/Shots/SFX_Vefects_Shots_Weapon_Shotgun_Silenced.wav
+SFX/Shots,SFX_Vefects_Shots_Weapon_SMG.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Shots/SFX_Vefects_Shots_Weapon_SMG.wav,SFX/Shots/SFX_Vefects_Shots_Weapon_SMG.wav
+SFX/Slime,SFX_Vefects_Slime_Ambient_01.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Slime/SFX_Vefects_Slime_Ambient_01.wav,SFX/Slime/SFX_Vefects_Slime_Ambient_01.wav
+SFX/Slime,SFX_Vefects_Slime_Burst_01.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Slime/SFX_Vefects_Slime_Burst_01.wav,SFX/Slime/SFX_Vefects_Slime_Burst_01.wav
+SFX/Slime,SFX_Vefects_Slime_Burst_02.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Slime/SFX_Vefects_Slime_Burst_02.wav,SFX/Slime/SFX_Vefects_Slime_Burst_02.wav
+SFX/Slime,SFX_Vefects_Slime_Loop_01.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Slime/SFX_Vefects_Slime_Loop_01.wav,SFX/Slime/SFX_Vefects_Slime_Loop_01.wav
+SFX/Slime,SFX_Vefects_Slime_Loop_02.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Slime/SFX_Vefects_Slime_Loop_02.wav,SFX/Slime/SFX_Vefects_Slime_Loop_02.wav
+SFX/SmokeBombs,SFX_Vefects_Smoke_Bombs_Aqua_Storm.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/SmokeBombs/SFX_Vefects_Smoke_Bombs_Aqua_Storm.wav,SFX/SmokeBombs/SFX_Vefects_Smoke_Bombs_Aqua_Storm.wav
+SFX/SmokeBombs,SFX_Vefects_Smoke_Bombs_Classic.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/SmokeBombs/SFX_Vefects_Smoke_Bombs_Classic.wav,SFX/SmokeBombs/SFX_Vefects_Smoke_Bombs_Classic.wav
+SFX/SmokeBombs,SFX_Vefects_Smoke_Bombs_Cursed.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/SmokeBombs/SFX_Vefects_Smoke_Bombs_Cursed.wav,SFX/SmokeBombs/SFX_Vefects_Smoke_Bombs_Cursed.wav
+SFX/SmokeBombs,SFX_Vefects_Smoke_Bombs_Darkness.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/SmokeBombs/SFX_Vefects_Smoke_Bombs_Darkness.wav,SFX/SmokeBombs/SFX_Vefects_Smoke_Bombs_Darkness.wav
+SFX/SmokeBombs,SFX_Vefects_Smoke_Bombs_Devil.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/SmokeBombs/SFX_Vefects_Smoke_Bombs_Devil.wav,SFX/SmokeBombs/SFX_Vefects_Smoke_Bombs_Devil.wav
+SFX/SmokeBombs,SFX_Vefects_Smoke_Bombs_Fire_Storm.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/SmokeBombs/SFX_Vefects_Smoke_Bombs_Fire_Storm.wav,SFX/SmokeBombs/SFX_Vefects_Smoke_Bombs_Fire_Storm.wav
+SFX/SmokeBombs,SFX_Vefects_Smoke_Bombs_Golden_Sand_Storm.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/SmokeBombs/SFX_Vefects_Smoke_Bombs_Golden_Sand_Storm.wav,SFX/SmokeBombs/SFX_Vefects_Smoke_Bombs_Golden_Sand_Storm.wav
+SFX/SmokeBombs,SFX_Vefects_Smoke_Bombs_Psychic.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/SmokeBombs/SFX_Vefects_Smoke_Bombs_Psychic.wav,SFX/SmokeBombs/SFX_Vefects_Smoke_Bombs_Psychic.wav
+SFX/SmokeBombs,SFX_Vefects_Smoke_Bombs_Sand_Storm.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/SmokeBombs/SFX_Vefects_Smoke_Bombs_Sand_Storm.wav,SFX/SmokeBombs/SFX_Vefects_Smoke_Bombs_Sand_Storm.wav
+SFX/SmokeBombs,SFX_Vefects_Smoke_Bombs_Snow_Storm.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/SmokeBombs/SFX_Vefects_Smoke_Bombs_Snow_Storm.wav,SFX/SmokeBombs/SFX_Vefects_Smoke_Bombs_Snow_Storm.wav
+SFX/SmokeBombs,SFX_Vefects_Smoke_Bombs_Sound_Storm.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/SmokeBombs/SFX_Vefects_Smoke_Bombs_Sound_Storm.wav,SFX/SmokeBombs/SFX_Vefects_Smoke_Bombs_Sound_Storm.wav
+SFX/SmokeBombs,SFX_Vefects_Smoke_Bombs_Thunder_Storm.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/SmokeBombs/SFX_Vefects_Smoke_Bombs_Thunder_Storm.wav,SFX/SmokeBombs/SFX_Vefects_Smoke_Bombs_Thunder_Storm.wav
+SFX/SmokeBombs,SFX_Vefects_Smoke_Bombs_Toxic.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/SmokeBombs/SFX_Vefects_Smoke_Bombs_Toxic.wav,SFX/SmokeBombs/SFX_Vefects_Smoke_Bombs_Toxic.wav
+SFX/SmokeBombs/Loop,SFX_Vefects_Smoke_Bombs_Aqua_Storm_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/SmokeBombs/Loop/SFX_Vefects_Smoke_Bombs_Aqua_Storm_Loop.wav,SFX/SmokeBombs/Loop/SFX_Vefects_Smoke_Bombs_Aqua_Storm_Loop.wav
+SFX/SmokeBombs/Loop,SFX_Vefects_Smoke_Bombs_Classic_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/SmokeBombs/Loop/SFX_Vefects_Smoke_Bombs_Classic_Loop.wav,SFX/SmokeBombs/Loop/SFX_Vefects_Smoke_Bombs_Classic_Loop.wav
+SFX/SmokeBombs/Loop,SFX_Vefects_Smoke_Bombs_Cursed_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/SmokeBombs/Loop/SFX_Vefects_Smoke_Bombs_Cursed_Loop.wav,SFX/SmokeBombs/Loop/SFX_Vefects_Smoke_Bombs_Cursed_Loop.wav
+SFX/SmokeBombs/Loop,SFX_Vefects_Smoke_Bombs_Darkness_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/SmokeBombs/Loop/SFX_Vefects_Smoke_Bombs_Darkness_Loop.wav,SFX/SmokeBombs/Loop/SFX_Vefects_Smoke_Bombs_Darkness_Loop.wav
+SFX/SmokeBombs/Loop,SFX_Vefects_Smoke_Bombs_Devil_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/SmokeBombs/Loop/SFX_Vefects_Smoke_Bombs_Devil_Loop.wav,SFX/SmokeBombs/Loop/SFX_Vefects_Smoke_Bombs_Devil_Loop.wav
+SFX/SmokeBombs/Loop,SFX_Vefects_Smoke_Bombs_Fire_Storm_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/SmokeBombs/Loop/SFX_Vefects_Smoke_Bombs_Fire_Storm_Loop.wav,SFX/SmokeBombs/Loop/SFX_Vefects_Smoke_Bombs_Fire_Storm_Loop.wav
+SFX/SmokeBombs/Loop,SFX_Vefects_Smoke_Bombs_Golden_Sand_Storm_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/SmokeBombs/Loop/SFX_Vefects_Smoke_Bombs_Golden_Sand_Storm_Loop.wav,SFX/SmokeBombs/Loop/SFX_Vefects_Smoke_Bombs_Golden_Sand_Storm_Loop.wav
+SFX/SmokeBombs/Loop,SFX_Vefects_Smoke_Bombs_Psychic_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/SmokeBombs/Loop/SFX_Vefects_Smoke_Bombs_Psychic_Loop.wav,SFX/SmokeBombs/Loop/SFX_Vefects_Smoke_Bombs_Psychic_Loop.wav
+SFX/SmokeBombs/Loop,SFX_Vefects_Smoke_Bombs_Sand_Storm_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/SmokeBombs/Loop/SFX_Vefects_Smoke_Bombs_Sand_Storm_Loop.wav,SFX/SmokeBombs/Loop/SFX_Vefects_Smoke_Bombs_Sand_Storm_Loop.wav
+SFX/SmokeBombs/Loop,SFX_Vefects_Smoke_Bombs_Snow_Storm_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/SmokeBombs/Loop/SFX_Vefects_Smoke_Bombs_Snow_Storm_Loop.wav,SFX/SmokeBombs/Loop/SFX_Vefects_Smoke_Bombs_Snow_Storm_Loop.wav
+SFX/SmokeBombs/Loop,SFX_Vefects_Smoke_Bombs_Sound_Storm_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/SmokeBombs/Loop/SFX_Vefects_Smoke_Bombs_Sound_Storm_Loop.wav,SFX/SmokeBombs/Loop/SFX_Vefects_Smoke_Bombs_Sound_Storm_Loop.wav
+SFX/SmokeBombs/Loop,SFX_Vefects_Smoke_Bombs_Thunder_Storm_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/SmokeBombs/Loop/SFX_Vefects_Smoke_Bombs_Thunder_Storm_Loop.wav,SFX/SmokeBombs/Loop/SFX_Vefects_Smoke_Bombs_Thunder_Storm_Loop.wav
+SFX/SmokeBombs/Loop,SFX_Vefects_Smoke_Bombs_Toxic_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/SmokeBombs/Loop/SFX_Vefects_Smoke_Bombs_Toxic_Loop.wav,SFX/SmokeBombs/Loop/SFX_Vefects_Smoke_Bombs_Toxic_Loop.wav
+SFX/Space,SFX_Vefects_Space_Black_Hole.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Space/SFX_Vefects_Space_Black_Hole.wav,SFX/Space/SFX_Vefects_Space_Black_Hole.wav
+SFX/Space,SFX_Vefects_Space_Laser_Impact.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Space/SFX_Vefects_Space_Laser_Impact.wav,SFX/Space/SFX_Vefects_Space_Laser_Impact.wav
+SFX/Space,SFX_Vefects_Space_Laser_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Space/SFX_Vefects_Space_Laser_Loop.wav,SFX/Space/SFX_Vefects_Space_Laser_Loop.wav
+SFX/Space,SFX_Vefects_Space_Laser_Shot.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Space/SFX_Vefects_Space_Laser_Shot.wav,SFX/Space/SFX_Vefects_Space_Laser_Shot.wav
+SFX/Space,SFX_Vefects_Space_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Space/SFX_Vefects_Space_Loop.wav,SFX/Space/SFX_Vefects_Space_Loop.wav
+SFX/Space,SFX_Vefects_Space_Missile_Blackhole.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Space/SFX_Vefects_Space_Missile_Blackhole.wav,SFX/Space/SFX_Vefects_Space_Missile_Blackhole.wav
+SFX/Space,SFX_Vefects_Space_Missile_Electromagnetic.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Space/SFX_Vefects_Space_Missile_Electromagnetic.wav,SFX/Space/SFX_Vefects_Space_Missile_Electromagnetic.wav
+SFX/Space,SFX_Vefects_Space_Missile_Impact.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Space/SFX_Vefects_Space_Missile_Impact.wav,SFX/Space/SFX_Vefects_Space_Missile_Impact.wav
+SFX/Space,SFX_Vefects_Space_Missile_Kinetic.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Space/SFX_Vefects_Space_Missile_Kinetic.wav,SFX/Space/SFX_Vefects_Space_Missile_Kinetic.wav
+SFX/Space,SFX_Vefects_Space_Missile_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Space/SFX_Vefects_Space_Missile_Loop.wav,SFX/Space/SFX_Vefects_Space_Missile_Loop.wav
+SFX/Space,SFX_Vefects_Space_Missile_Shot.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Space/SFX_Vefects_Space_Missile_Shot.wav,SFX/Space/SFX_Vefects_Space_Missile_Shot.wav
+SFX/Space,SFX_Vefects_Space_Planet_01.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Space/SFX_Vefects_Space_Planet_01.wav,SFX/Space/SFX_Vefects_Space_Planet_01.wav
+SFX/Space,SFX_Vefects_Space_Planet_02.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Space/SFX_Vefects_Space_Planet_02.wav,SFX/Space/SFX_Vefects_Space_Planet_02.wav
+SFX/Space,SFX_Vefects_Space_Shield_Broken.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Space/SFX_Vefects_Space_Shield_Broken.wav,SFX/Space/SFX_Vefects_Space_Shield_Broken.wav
+SFX/Space,SFX_Vefects_Space_Shield_Impact.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Space/SFX_Vefects_Space_Shield_Impact.wav,SFX/Space/SFX_Vefects_Space_Shield_Impact.wav
+SFX/Space,SFX_Vefects_Space_Shield_Off.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Space/SFX_Vefects_Space_Shield_Off.wav,SFX/Space/SFX_Vefects_Space_Shield_Off.wav
+SFX/Space,SFX_Vefects_Space_Shield_Start.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Space/SFX_Vefects_Space_Shield_Start.wav,SFX/Space/SFX_Vefects_Space_Shield_Start.wav
+SFX/Space,SFX_Vefects_Space_Sun_Blue.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Space/SFX_Vefects_Space_Sun_Blue.wav,SFX/Space/SFX_Vefects_Space_Sun_Blue.wav
+SFX/Space,SFX_Vefects_Space_Sun_Green.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Space/SFX_Vefects_Space_Sun_Green.wav,SFX/Space/SFX_Vefects_Space_Sun_Green.wav
+SFX/Space,SFX_Vefects_Space_Sun_Purple.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Space/SFX_Vefects_Space_Sun_Purple.wav,SFX/Space/SFX_Vefects_Space_Sun_Purple.wav
+SFX/Space,SFX_Vefects_Space_Sun_Red.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Space/SFX_Vefects_Space_Sun_Red.wav,SFX/Space/SFX_Vefects_Space_Sun_Red.wav
+SFX/Space,SFX_Vefects_Space_Sun_White.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Space/SFX_Vefects_Space_Sun_White.wav,SFX/Space/SFX_Vefects_Space_Sun_White.wav
+SFX/Space,SFX_Vefects_Space_Sun_Yellow.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Space/SFX_Vefects_Space_Sun_Yellow.wav,SFX/Space/SFX_Vefects_Space_Sun_Yellow.wav
+SFX/Space,SFX_Vefects_Space_Thruster_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Space/SFX_Vefects_Space_Thruster_Loop.wav,SFX/Space/SFX_Vefects_Space_Thruster_Loop.wav
+SFX/Space,SFX_Vefects_Space_Thruster_Off.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Space/SFX_Vefects_Space_Thruster_Off.wav,SFX/Space/SFX_Vefects_Space_Thruster_Off.wav
+SFX/Space,SFX_Vefects_Space_Thruster_Start.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Space/SFX_Vefects_Space_Thruster_Start.wav,SFX/Space/SFX_Vefects_Space_Thruster_Start.wav
+SFX/Stylized/Magic Attacks,SFX_Vefects_Stylized_Magic_Attack_Dark_Cast_Origin.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Dark_Cast_Origin.wav,SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Dark_Cast_Origin.wav
+SFX/Stylized/Magic Attacks,SFX_Vefects_Stylized_Magic_Attack_Dark_Hit.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Dark_Hit.wav,SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Dark_Hit.wav
+SFX/Stylized/Magic Attacks,SFX_Vefects_Stylized_Magic_Attack_Dark_Projectile.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Dark_Projectile.wav,SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Dark_Projectile.wav
+SFX/Stylized/Magic Attacks,SFX_Vefects_Stylized_Magic_Attack_Earth_Cast.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Earth_Cast.wav,SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Earth_Cast.wav
+SFX/Stylized/Magic Attacks,SFX_Vefects_Stylized_Magic_Attack_Earth_Hit.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Earth_Hit.wav,SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Earth_Hit.wav
+SFX/Stylized/Magic Attacks,SFX_Vefects_Stylized_Magic_Attack_Earth_Projectile.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Earth_Projectile.wav,SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Earth_Projectile.wav
+SFX/Stylized/Magic Attacks,SFX_Vefects_Stylized_Magic_Attack_Electric_Cast_Origin.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Electric_Cast_Origin.wav,SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Electric_Cast_Origin.wav
+SFX/Stylized/Magic Attacks,SFX_Vefects_Stylized_Magic_Attack_Electric_Hit.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Electric_Hit.wav,SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Electric_Hit.wav
+SFX/Stylized/Magic Attacks,SFX_Vefects_Stylized_Magic_Attack_Electric_Hit_No_Blip.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Electric_Hit_No_Blip.wav,SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Electric_Hit_No_Blip.wav
+SFX/Stylized/Magic Attacks,SFX_Vefects_Stylized_Magic_Attack_Electric_Projectile.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Electric_Projectile.wav,SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Electric_Projectile.wav
+SFX/Stylized/Magic Attacks,SFX_Vefects_Stylized_Magic_Attack_Fire_Cast.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Fire_Cast.wav,SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Fire_Cast.wav
+SFX/Stylized/Magic Attacks,SFX_Vefects_Stylized_Magic_Attack_Fire_Hit.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Fire_Hit.wav,SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Fire_Hit.wav
+SFX/Stylized/Magic Attacks,SFX_Vefects_Stylized_Magic_Attack_Fire_Projectile.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Fire_Projectile.wav,SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Fire_Projectile.wav
+SFX/Stylized/Magic Attacks,SFX_Vefects_Stylized_Magic_Attack_Ice_Cast_02.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Ice_Cast_02.wav,SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Ice_Cast_02.wav
+SFX/Stylized/Magic Attacks,SFX_Vefects_Stylized_Magic_Attack_Ice_Cast_Origin.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Ice_Cast_Origin.wav,SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Ice_Cast_Origin.wav
+SFX/Stylized/Magic Attacks,SFX_Vefects_Stylized_Magic_Attack_Ice_Hit.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Ice_Hit.wav,SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Ice_Hit.wav
+SFX/Stylized/Magic Attacks,SFX_Vefects_Stylized_Magic_Attack_Ice_Projectile.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Ice_Projectile.wav,SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Ice_Projectile.wav
+SFX/Stylized/Magic Attacks,SFX_Vefects_Stylized_Magic_Attack_Nature_Cast_Origin.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Nature_Cast_Origin.wav,SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Nature_Cast_Origin.wav
+SFX/Stylized/Magic Attacks,SFX_Vefects_Stylized_Magic_Attack_Nature_Hit.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Nature_Hit.wav,SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Nature_Hit.wav
+SFX/Stylized/Magic Attacks,SFX_Vefects_Stylized_Magic_Attack_Nature_Projectile.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Nature_Projectile.wav,SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Nature_Projectile.wav
+SFX/Stylized/Magic Attacks,SFX_Vefects_Stylized_Magic_Attack_Sound_Cast.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Sound_Cast.wav,SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Sound_Cast.wav
+SFX/Stylized/Magic Attacks,SFX_Vefects_Stylized_Magic_Attack_Sound_Hit.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Sound_Hit.wav,SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Sound_Hit.wav
+SFX/Stylized/Magic Attacks,SFX_Vefects_Stylized_Magic_Attack_Sound_Projectile.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Sound_Projectile.wav,SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Sound_Projectile.wav
+SFX/Stylized/Magic Attacks,SFX_Vefects_Stylized_Magic_Attack_Void_Cast.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Void_Cast.wav,SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Void_Cast.wav
+SFX/Stylized/Magic Attacks,SFX_Vefects_Stylized_Magic_Attack_Void_Cast_Stereo.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Void_Cast_Stereo.wav,SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Void_Cast_Stereo.wav
+SFX/Stylized/Magic Attacks,SFX_Vefects_Stylized_Magic_Attack_Void_Hit.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Void_Hit.wav,SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Void_Hit.wav
+SFX/Stylized/Magic Attacks,SFX_Vefects_Stylized_Magic_Attack_Void_Projectile.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Void_Projectile.wav,SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Void_Projectile.wav
+SFX/Stylized/Magic Attacks,SFX_Vefects_Stylized_Magic_Attack_Water_Cast.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Water_Cast.wav,SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Water_Cast.wav
+SFX/Stylized/Magic Attacks,SFX_Vefects_Stylized_Magic_Attack_Water_Hit.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Water_Hit.wav,SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Water_Hit.wav
+SFX/Stylized/Magic Attacks,SFX_Vefects_Stylized_Magic_Attack_Water_Projectile.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Water_Projectile.wav,SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Water_Projectile.wav
+SFX/Stylized/Slashes Piercing,SFX_Vefects_Stylized_Demo_Slash_Circle_Dark.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Demo_Slash_Circle_Dark.wav,SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Demo_Slash_Circle_Dark.wav
+SFX/Stylized/Slashes Piercing,SFX_Vefects_Stylized_Demo_Slash_Circle_Earth.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Demo_Slash_Circle_Earth.wav,SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Demo_Slash_Circle_Earth.wav
+SFX/Stylized/Slashes Piercing,SFX_Vefects_Stylized_Demo_Slash_Circle_Electric.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Demo_Slash_Circle_Electric.wav,SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Demo_Slash_Circle_Electric.wav
+SFX/Stylized/Slashes Piercing,SFX_Vefects_Stylized_Demo_Slash_Circle_Fire.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Demo_Slash_Circle_Fire.wav,SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Demo_Slash_Circle_Fire.wav
+SFX/Stylized/Slashes Piercing,SFX_Vefects_Stylized_Demo_Slash_Circle_Generic.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Demo_Slash_Circle_Generic.wav,SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Demo_Slash_Circle_Generic.wav
+SFX/Stylized/Slashes Piercing,SFX_Vefects_Stylized_Demo_Slash_Circle_Ice.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Demo_Slash_Circle_Ice.wav,SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Demo_Slash_Circle_Ice.wav
+SFX/Stylized/Slashes Piercing,SFX_Vefects_Stylized_Demo_Slash_Circle_Nature.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Demo_Slash_Circle_Nature.wav,SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Demo_Slash_Circle_Nature.wav
+SFX/Stylized/Slashes Piercing,SFX_Vefects_Stylized_Demo_Slash_Circle_Sound.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Demo_Slash_Circle_Sound.wav,SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Demo_Slash_Circle_Sound.wav
+SFX/Stylized/Slashes Piercing,SFX_Vefects_Stylized_Demo_Slash_Circle_Void.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Demo_Slash_Circle_Void.wav,SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Demo_Slash_Circle_Void.wav
+SFX/Stylized/Slashes Piercing,SFX_Vefects_Stylized_Demo_Slash_Circle_Water.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Demo_Slash_Circle_Water.wav,SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Demo_Slash_Circle_Water.wav
+SFX/Stylized/Slashes Piercing,SFX_Vefects_Stylized_Slash_Circle_Dark.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Circle_Dark.wav,SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Circle_Dark.wav
+SFX/Stylized/Slashes Piercing,SFX_Vefects_Stylized_Slash_Circle_Earth.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Circle_Earth.wav,SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Circle_Earth.wav
+SFX/Stylized/Slashes Piercing,SFX_Vefects_Stylized_Slash_Circle_Electric.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Circle_Electric.wav,SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Circle_Electric.wav
+SFX/Stylized/Slashes Piercing,SFX_Vefects_Stylized_Slash_Circle_Generic.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Circle_Generic.wav,SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Circle_Generic.wav
+SFX/Stylized/Slashes Piercing,SFX_Vefects_Stylized_Slash_Circle_Ice.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Circle_Ice.wav,SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Circle_Ice.wav
+SFX/Stylized/Slashes Piercing,SFX_Vefects_Stylized_Slash_Circle_Nature.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Circle_Nature.wav,SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Circle_Nature.wav
+SFX/Stylized/Slashes Piercing,SFX_Vefects_Stylized_Slash_Circle_Sound.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Circle_Sound.wav,SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Circle_Sound.wav
+SFX/Stylized/Slashes Piercing,SFX_Vefects_Stylized_Slash_Circle_Void.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Circle_Void.wav,SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Circle_Void.wav
+SFX/Stylized/Slashes Piercing,SFX_Vefects_Stylized_Slash_Circle_Water.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Circle_Water.wav,SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Circle_Water.wav
+SFX/Stylized/Slashes Piercing,SFX_Vefects_Stylized_Slash_Dark.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Dark.wav,SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Dark.wav
+SFX/Stylized/Slashes Piercing,SFX_Vefects_Stylized_Slash_Earth.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Earth.wav,SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Earth.wav
+SFX/Stylized/Slashes Piercing,SFX_Vefects_Stylized_Slash_Electric.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Electric.wav,SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Electric.wav
+SFX/Stylized/Slashes Piercing,SFX_Vefects_Stylized_Slash_Fire.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Fire.wav,SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Fire.wav
+SFX/Stylized/Slashes Piercing,SFX_Vefects_Stylized_Slash_Fire_Circle.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Fire_Circle.wav,SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Fire_Circle.wav
+SFX/Stylized/Slashes Piercing,SFX_Vefects_Stylized_Slash_Generic.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Generic.wav,SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Generic.wav
+SFX/Stylized/Slashes Piercing,SFX_Vefects_Stylized_Slash_Ice.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Ice.wav,SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Ice.wav
+SFX/Stylized/Slashes Piercing,SFX_Vefects_Stylized_Slash_Nature.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Nature.wav,SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Nature.wav
+SFX/Stylized/Slashes Piercing,SFX_Vefects_Stylized_Slash_Sound.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Sound.wav,SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Sound.wav
+SFX/Stylized/Slashes Piercing,SFX_Vefects_Stylized_Slash_Void.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Void.wav,SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Void.wav
+SFX/Stylized/Slashes Piercing,SFX_Vefects_Stylized_Slash_Water.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Water.wav,SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Water.wav
+SFX/Tentacles,SFX_Vefects_Tentacles_Body_Activation_01.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Tentacles/SFX_Vefects_Tentacles_Body_Activation_01.wav,SFX/Tentacles/SFX_Vefects_Tentacles_Body_Activation_01.wav
+SFX/Tentacles,SFX_Vefects_Tentacles_Body_Explode_01.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Tentacles/SFX_Vefects_Tentacles_Body_Explode_01.wav,SFX/Tentacles/SFX_Vefects_Tentacles_Body_Explode_01.wav
+SFX/Tentacles,SFX_Vefects_Tentacles_Body_Loop_01.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Tentacles/SFX_Vefects_Tentacles_Body_Loop_01.wav,SFX/Tentacles/SFX_Vefects_Tentacles_Body_Loop_01.wav
+SFX/Tentacles,SFX_Vefects_Tentacles_Body_Loop_02.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Tentacles/SFX_Vefects_Tentacles_Body_Loop_02.wav,SFX/Tentacles/SFX_Vefects_Tentacles_Body_Loop_02.wav
+SFX/Tentacles,SFX_Vefects_Tentacles_In_01.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Tentacles/SFX_Vefects_Tentacles_In_01.wav,SFX/Tentacles/SFX_Vefects_Tentacles_In_01.wav
+SFX/Tentacles,SFX_Vefects_Tentacles_Out_01.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Tentacles/SFX_Vefects_Tentacles_Out_01.wav,SFX/Tentacles/SFX_Vefects_Tentacles_Out_01.wav
+SFX/Trails,SFX_Vefects_Trail_Cosmos.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Trails/SFX_Vefects_Trail_Cosmos.wav,SFX/Trails/SFX_Vefects_Trail_Cosmos.wav
+SFX/Trails,SFX_Vefects_Trail_Dark.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Trails/SFX_Vefects_Trail_Dark.wav,SFX/Trails/SFX_Vefects_Trail_Dark.wav
+SFX/Trails,SFX_Vefects_Trail_Earth.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Trails/SFX_Vefects_Trail_Earth.wav,SFX/Trails/SFX_Vefects_Trail_Earth.wav
+SFX/Trails,SFX_Vefects_Trail_Electric.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Trails/SFX_Vefects_Trail_Electric.wav,SFX/Trails/SFX_Vefects_Trail_Electric.wav
+SFX/Trails,SFX_Vefects_Trail_Fire.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Trails/SFX_Vefects_Trail_Fire.wav,SFX/Trails/SFX_Vefects_Trail_Fire.wav
+SFX/Trails,SFX_Vefects_Trail_Ice.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Trails/SFX_Vefects_Trail_Ice.wav,SFX/Trails/SFX_Vefects_Trail_Ice.wav
+SFX/Trails,SFX_Vefects_Trail_Nature.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Trails/SFX_Vefects_Trail_Nature.wav,SFX/Trails/SFX_Vefects_Trail_Nature.wav
+SFX/Trails,SFX_Vefects_Trail_Sound.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Trails/SFX_Vefects_Trail_Sound.wav,SFX/Trails/SFX_Vefects_Trail_Sound.wav
+SFX/Trails,SFX_Vefects_Trail_Void.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Trails/SFX_Vefects_Trail_Void.wav,SFX/Trails/SFX_Vefects_Trail_Void.wav
+SFX/Trails,SFX_Vefects_Trail_Water.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Trails/SFX_Vefects_Trail_Water.wav,SFX/Trails/SFX_Vefects_Trail_Water.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Bloody.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Bloody.wav,SFX/Vignette/SFX_Vefects_Vignettes_Bloody.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Charmed_Cast.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Charmed_Cast.wav,SFX/Vignette/SFX_Vefects_Vignettes_Charmed_Cast.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Charmed_End.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Charmed_End.wav,SFX/Vignette/SFX_Vefects_Vignettes_Charmed_End.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Charmed_Heart.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Charmed_Heart.wav,SFX/Vignette/SFX_Vefects_Vignettes_Charmed_Heart.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Charmed_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Charmed_Loop.wav,SFX/Vignette/SFX_Vefects_Vignettes_Charmed_Loop.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Drunk_Cast.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Drunk_Cast.wav,SFX/Vignette/SFX_Vefects_Vignettes_Drunk_Cast.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Drunk_End.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Drunk_End.wav,SFX/Vignette/SFX_Vefects_Vignettes_Drunk_End.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Drunk_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Drunk_Loop.wav,SFX/Vignette/SFX_Vefects_Vignettes_Drunk_Loop.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Fear_Cast.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Fear_Cast.wav,SFX/Vignette/SFX_Vefects_Vignettes_Fear_Cast.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Fear_End.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Fear_End.wav,SFX/Vignette/SFX_Vefects_Vignettes_Fear_End.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Fear_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Fear_Loop.wav,SFX/Vignette/SFX_Vefects_Vignettes_Fear_Loop.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Fire_Cast.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Fire_Cast.wav,SFX/Vignette/SFX_Vefects_Vignettes_Fire_Cast.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Fire_End.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Fire_End.wav,SFX/Vignette/SFX_Vefects_Vignettes_Fire_End.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Fire_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Fire_Loop.wav,SFX/Vignette/SFX_Vefects_Vignettes_Fire_Loop.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Glitch_Border_Cast.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Glitch_Border_Cast.wav,SFX/Vignette/SFX_Vefects_Vignettes_Glitch_Border_Cast.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Glitch_Border_End.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Glitch_Border_End.wav,SFX/Vignette/SFX_Vefects_Vignettes_Glitch_Border_End.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Glitch_Border_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Glitch_Border_Loop.wav,SFX/Vignette/SFX_Vefects_Vignettes_Glitch_Border_Loop.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Glitch_Screen_1.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Glitch_Screen_1.wav,SFX/Vignette/SFX_Vefects_Vignettes_Glitch_Screen_1.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Glitch_Screen_2.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Glitch_Screen_2.wav,SFX/Vignette/SFX_Vefects_Vignettes_Glitch_Screen_2.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Glitch_Screen_3.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Glitch_Screen_3.wav,SFX/Vignette/SFX_Vefects_Vignettes_Glitch_Screen_3.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Glitch_Strong_1.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Glitch_Strong_1.wav,SFX/Vignette/SFX_Vefects_Vignettes_Glitch_Strong_1.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Glitch_Strong_2.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Glitch_Strong_2.wav,SFX/Vignette/SFX_Vefects_Vignettes_Glitch_Strong_2.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Glitch_Strong_3.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Glitch_Strong_3.wav,SFX/Vignette/SFX_Vefects_Vignettes_Glitch_Strong_3.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Goo_Cast.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Goo_Cast.wav,SFX/Vignette/SFX_Vefects_Vignettes_Goo_Cast.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Goo_End.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Goo_End.wav,SFX/Vignette/SFX_Vefects_Vignettes_Goo_End.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Goo_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Goo_Loop.wav,SFX/Vignette/SFX_Vefects_Vignettes_Goo_Loop.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Healing_Cast.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Healing_Cast.wav,SFX/Vignette/SFX_Vefects_Vignettes_Healing_Cast.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Healing_Cross.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Healing_Cross.wav,SFX/Vignette/SFX_Vefects_Vignettes_Healing_Cross.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Healing_End.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Healing_End.wav,SFX/Vignette/SFX_Vefects_Vignettes_Healing_End.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Healing_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Healing_Loop.wav,SFX/Vignette/SFX_Vefects_Vignettes_Healing_Loop.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Hurt_Cast.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Hurt_Cast.wav,SFX/Vignette/SFX_Vefects_Vignettes_Hurt_Cast.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Hurt_End.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Hurt_End.wav,SFX/Vignette/SFX_Vefects_Vignettes_Hurt_End.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Hurt_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Hurt_Loop.wav,SFX/Vignette/SFX_Vefects_Vignettes_Hurt_Loop.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Ice_Cast.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Ice_Cast.wav,SFX/Vignette/SFX_Vefects_Vignettes_Ice_Cast.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Ice_End.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Ice_End.wav,SFX/Vignette/SFX_Vefects_Vignettes_Ice_End.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Ice_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Ice_Loop.wav,SFX/Vignette/SFX_Vefects_Vignettes_Ice_Loop.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Muddy.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Muddy.wav,SFX/Vignette/SFX_Vefects_Vignettes_Muddy.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Poison_Cast.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Poison_Cast.wav,SFX/Vignette/SFX_Vefects_Vignettes_Poison_Cast.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Poison_End.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Poison_End.wav,SFX/Vignette/SFX_Vefects_Vignettes_Poison_End.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Poison_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Poison_Loop.wav,SFX/Vignette/SFX_Vefects_Vignettes_Poison_Loop.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Poo_Cast.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Poo_Cast.wav,SFX/Vignette/SFX_Vefects_Vignettes_Poo_Cast.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Poo_End.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Poo_End.wav,SFX/Vignette/SFX_Vefects_Vignettes_Poo_End.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Poo_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Poo_Loop.wav,SFX/Vignette/SFX_Vefects_Vignettes_Poo_Loop.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Puke_Cast.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Puke_Cast.wav,SFX/Vignette/SFX_Vefects_Vignettes_Puke_Cast.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Puke_End.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Puke_End.wav,SFX/Vignette/SFX_Vefects_Vignettes_Puke_End.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Puke_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Puke_Loop.wav,SFX/Vignette/SFX_Vefects_Vignettes_Puke_Loop.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Shield_Cast.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Shield_Cast.wav,SFX/Vignette/SFX_Vefects_Vignettes_Shield_Cast.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Shield_End.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Shield_End.wav,SFX/Vignette/SFX_Vefects_Vignettes_Shield_End.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Shield_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Shield_Loop.wav,SFX/Vignette/SFX_Vefects_Vignettes_Shield_Loop.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Speed_Anime_Cast.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Speed_Anime_Cast.wav,SFX/Vignette/SFX_Vefects_Vignettes_Speed_Anime_Cast.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Speed_Anime_End.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Speed_Anime_End.wav,SFX/Vignette/SFX_Vefects_Vignettes_Speed_Anime_End.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Speed_Anime_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Speed_Anime_Loop.wav,SFX/Vignette/SFX_Vefects_Vignettes_Speed_Anime_Loop.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Speed_Cast.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Speed_Cast.wav,SFX/Vignette/SFX_Vefects_Vignettes_Speed_Cast.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Speed_End.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Speed_End.wav,SFX/Vignette/SFX_Vefects_Vignettes_Speed_End.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Speed_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Speed_Loop.wav,SFX/Vignette/SFX_Vefects_Vignettes_Speed_Loop.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Water_Cast.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Water_Cast.wav,SFX/Vignette/SFX_Vefects_Vignettes_Water_Cast.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Water_End.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Water_End.wav,SFX/Vignette/SFX_Vefects_Vignettes_Water_End.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Water_Loop.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Water_Loop.wav,SFX/Vignette/SFX_Vefects_Vignettes_Water_Loop.wav
+SFX/Vignette,SFX_Vefects_Vignettes_Water_Tear.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Vignette/SFX_Vefects_Vignettes_Water_Tear.wav,SFX/Vignette/SFX_Vefects_Vignettes_Water_Tear.wav
+SFX/Zap,SFX_Vefects_Zap_Big_01.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Zap/SFX_Vefects_Zap_Big_01.wav,SFX/Zap/SFX_Vefects_Zap_Big_01.wav
+SFX/Zap,SFX_Vefects_Zap_Big_02.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Zap/SFX_Vefects_Zap_Big_02.wav,SFX/Zap/SFX_Vefects_Zap_Big_02.wav
+SFX/Zap,SFX_Vefects_Zap_Medium_01.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Zap/SFX_Vefects_Zap_Medium_01.wav,SFX/Zap/SFX_Vefects_Zap_Medium_01.wav
+SFX/Zap,SFX_Vefects_Zap_Medium_02.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Zap/SFX_Vefects_Zap_Medium_02.wav,SFX/Zap/SFX_Vefects_Zap_Medium_02.wav
+SFX/Zap,SFX_Vefects_Zap_Small_01.wav,E:/game/FinalProject/Assets/06_Sounds/SFX/Zap/SFX_Vefects_Zap_Small_01.wav,SFX/Zap/SFX_Vefects_Zap_Small_01.wav

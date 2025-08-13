@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06826cba98bf0ad45921ff077dab8b51, type: 3}
+  m_Name: Stage02
+  m_EditorClassIdentifier: 
+  bossEnemyData: {fileID: 11400000, guid: 2c23006d57871de449d4f3f0086c88ca, type: 2}
+  roomSpawnDataList:
+  - {fileID: 11400000, guid: 506f266890bf1fd4b90c281eef08d5f0, type: 2}
+  - {fileID: 11400000, guid: 1dad42838715e65489ebf11783741fae, type: 2}
+  - {fileID: 11400000, guid: aeb71f72847111b4ea514085fb61669f, type: 2}
+  - {fileID: 11400000, guid: 816b57558c3783c46bbc79276da9381a, type: 2}
+  - {fileID: 11400000, guid: 8732b7d7d6114714c92e764be879b7c8, type: 2}
+  - {fileID: 11400000, guid: 67b7bac46bba84a4fa65ad2a9aa758ba, type: 2}
+  - {fileID: 11400000, guid: bb9d17567931e104eb9bb4d9d3543198, type: 2}
+  - {fileID: 11400000, guid: 63441647cd7f43b4abccbd65fcfc1373, type: 2}

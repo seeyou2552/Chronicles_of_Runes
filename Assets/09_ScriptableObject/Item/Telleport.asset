@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f0bb84627668a24dbf959b936d4a0fa, type: 3}
+  m_Name: Telleport
+  m_EditorClassIdentifier: 
+  id: 18
+  displayName: Telleport
+  icon: {fileID: 21300000, guid: 5835d1cdf318c7442a067ef184252b77, type: 3}
+  description: "\uCEE4\uC11C \uC704\uCE58\uB85C \uC21C\uAC04\uC774\uB3D9\uD569\uB2C8\uB2E4."
+  itemType: 0
+  price: 35
+  skillImage: {fileID: 21300000, guid: 9980c090c30e88649af6e9fe47501530, type: 3}
+  skillSO: {fileID: 11400000, guid: 362d1712af86c6f448da1d915e4c0928, type: 2}

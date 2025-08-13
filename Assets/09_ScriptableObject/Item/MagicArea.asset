@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f0bb84627668a24dbf959b936d4a0fa, type: 3}
+  m_Name: MagicArea
+  m_EditorClassIdentifier: 
+  id: 28
+  displayName: MagicArea
+  icon: {fileID: 21300000, guid: d4168d3807864b74baf1c9363bbd68b8, type: 3}
+  description: "\uC801\uC5D0\uAC8C \uD53C\uD574\uB97C \uC8FC\uB294 \uB9C8\uBC95\uC9C4\uC744
+    \uC18C\uD658\uD569\uB2C8\uB2E4."
+  itemType: 0
+  price: 40
+  skillImage: {fileID: 21300000, guid: 1a00333e489ae7743ba588316ca7f8fd, type: 3}
+  skillSO: {fileID: 11400000, guid: 1223084010f024844b32deb95f3232dc, type: 2}

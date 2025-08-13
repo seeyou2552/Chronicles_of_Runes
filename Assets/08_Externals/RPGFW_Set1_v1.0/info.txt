@@ -1,0 +1,32 @@
+animated objects sprite sheet block size:
+
+water shine 			- 32x32 (all 32x32 block have 8 frames)
+water_surface_transparent 	- 32x32 (16 frames)
+
+1x1_waterfall	- 96x96
+1x2_waterfall	- 128x96
+1x3_waterfall	- 160x96
+1x4_waterfall	- 192x96
+1x5_waterfall	- 224x96
+1x6_waterfall	- 256x96
+
+2x1_waterfall	- 96x128
+2x2_waterfall	- 128x128
+2x3_waterfall	- 160x128
+2x4_waterfall	- 192x128
+2x5_waterfall	- 224x128
+2x6_waterfall	- 256x128
+
+3x1_waterfall	- 96x160
+3x2_waterfall	- 128x160
+3x3_waterfall	- 160x160
+3x4_waterfall	- 192x160
+3x5_waterfall	- 224x160
+3x6_waterfall	- 256x160
+
+4x1_waterfall	- 96x192
+4x2_waterfall	- 128x192
+4x3_waterfall	- 160x192
+4x4_waterfall	- 192x192
+4x5_waterfall	- 224x192
+4x6_waterfall	- 256x192

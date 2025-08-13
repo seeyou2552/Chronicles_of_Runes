@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48fe3e2949e252c44aca8267a556dade, type: 3}
+  m_Name: Gravity Rune
+  m_EditorClassIdentifier: 
+  id: 5
+  displayName: Gravity Rune
+  icon: {fileID: 21300000, guid: 33faad10e36bc484895740ce7cdf01fd, type: 3}
+  description: "\uC911\uB825\uC744 \uAC15\uD558\uAC8C \uB9CC\uB4E4\uC5B4 \uC2A4\uD0AC
+    \uC0AC\uC6A9 \uD6C4  \uADFC\uCC98 \uBAAC\uC2A4\uD130\uB97C \uAC00\uC6B4\uB370\uB85C
+    \uBAA8\uC74D\uB2C8\uB2E4."
+  itemType: 1
+  price: 20
+  runeSO: {fileID: 11400000, guid: 4d70fe4a3fc607240b163b149b0616e5, type: 2}

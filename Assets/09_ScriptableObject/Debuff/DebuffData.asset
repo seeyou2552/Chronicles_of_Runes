@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6279a71ffb6a7ea4e9fd40b1c2b3251d, type: 3}
+  m_Name: DebuffData
+  m_EditorClassIdentifier: 
+  sturnDebuff: {fileID: 11400000, guid: 1cb10e41a10de714ca8841d5e7b50aac, type: 2}
+  fireDebuff: {fileID: 11400000, guid: 5e0118c4bd24aad40ad44f381d2c639a, type: 2}
+  waterDebuff: {fileID: 11400000, guid: e12cb316d1c330e47aa018456b0087d2, type: 2}
+  iceDebuff: {fileID: 11400000, guid: 25d32f7cfe18342469b7a414c13a8a71, type: 2}
+  electricDebuff: {fileID: 11400000, guid: bcbf84d073d15c348ab337dfa59f0470, type: 2}
+  darkDebuff: {fileID: 11400000, guid: eaeaf0106e63cb04f8c3dc1d8dfae0c0, type: 2}
+  lightDebuff: {fileID: 11400000, guid: 7916d9d87aa7ab743b68714ca0b06e97, type: 2}

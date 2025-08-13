@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2537413831d268b4fa2e4f804bef04f9, type: 3}
+  m_Name: Boss01_Data
+  m_EditorClassIdentifier: 
+  enemyName: Boss01
+  displayName: "\uC0AC\uC5ED\uB9C8 - \uB808\uB4DC \uB370\uC2A4"
+  isBoss: 1
+  hp: 350
+  speed: 10
+  safeDistance: 5
+  enemyPrefab: {fileID: 2154387826372089393, guid: d210defd619e12047817f5208ac30f0b, type: 3}
+  chaseRange: 15
+  attackPower: 7
+  attackRange: 15
+  dropTable: []
+  NoDropWeight: 0

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48fe3e2949e252c44aca8267a556dade, type: 3}
+  m_Name: ThroughRune
+  m_EditorClassIdentifier: 
+  id: 19
+  displayName: ThroughRune
+  icon: {fileID: 21300000, guid: f660304df34ebe841a046e97fd4bd3fc, type: 3}
+  description: "\uD22C\uC0AC\uCCB4\uAC00 \uC801\uC744 \uAD00\uD1B5\uD558\uAC8C \uB9CC\uB4ED\uB2C8\uB2E4."
+  itemType: 1
+  price: 20
+  runeSO: {fileID: 11400000, guid: bc8cd4d3511371345ac9a4cdb6061330, type: 2}

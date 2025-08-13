@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acde6a53274ea76428828d8037d05de5, type: 3}
+  m_Name: LightDebuff
+  m_EditorClassIdentifier: 
+  slowPercentage: 50
+  duration: 5
+  maxOverlap: 1
+  debuffEffect: {fileID: 6220918490801148041, guid: a736f18f5f57a4a40aba40a462e9fd8e, type: 3}

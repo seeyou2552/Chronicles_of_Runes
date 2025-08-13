@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67c212027a4042b42b854ebbce6abe91, type: 3}
+  m_Name: ElectricDebuff
+  m_EditorClassIdentifier: 
+  damage: 1
+  duration: 5
+  maxOverlap: 3
+  delay: 1
+  debuffEffect: {fileID: 5326185835649482493, guid: 98bece6d1828bfc469437cfbc1241023, type: 3}
