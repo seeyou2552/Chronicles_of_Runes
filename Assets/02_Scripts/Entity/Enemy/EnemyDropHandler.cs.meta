@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d52165d897d14798a27e962ed00cd43a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dropItemPrefab: {fileID: 2152944805632566560, guid: 981064ae802503f46a37a69d07c85ada, type: 3}
+  - dropGoldPrefab: {fileID: 2255741968173842126, guid: 38f6bc2278e3aed48b239d3ee8c1b4d4, type: 3}
+  - DefaultSkillPrefab: {fileID: 1455152974154374046, guid: 3798ec9640aea8e4b9a37aee83183483, type: 3}
+  - DefaultRunePrefab: {fileID: 8117277943635419100, guid: 360668e8c5c17fe41bc0ff5aaea079b7, type: 3}
+  - DefaultPotionPrefab: {fileID: 5185403090665717655, guid: cd46752f9d7bd1d4381d40173eaf5ed5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
