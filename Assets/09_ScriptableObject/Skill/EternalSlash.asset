@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b88a12e21e67fc45922b604b1a4e55e, type: 3}
+  m_Name: EternalSlash
+  m_EditorClassIdentifier: 
+  skillName: 
+  speed: 0
+  obj: {fileID: 253075101274958019, guid: 909f9b82cb7a97145a618ea28c82ba53, type: 3}
+  coolTime: 10
+  coast: 20
+  delay: 0.2
+  duration: 1.5
+  SkillAnim: Attack5
+  damage: 5
+  playerAttackPercentage: 10
+  pool: {fileID: 0}
+  devidePool: {fileID: 0}
+  enemyPool: {fileID: 0}
+  count: 0
