@@ -1,0 +1,58 @@
+id,path,volume,pitch,loop,type
+,,,,,
+Arrow1,Sounds/Audio/SFX/Anime/SFX_Vefects_Anime_Stylized_Arrow_Shot_Cast,1,1,FALSE,SFX
+Arrow1_Low,Sounds/Audio/SFX/Anime/SFX_Vefects_Anime_Stylized_Arrow_Shot_Cast,1,0.8,FALSE,SFX
+Arrow1_High,Sounds/Audio/SFX/Anime/SFX_Vefects_Anime_Stylized_Arrow_Shot_Cast,1,1.2,FALSE,SFX
+Arrow2,Sounds/Audio/SFX/Anime/SFX_Vefects_Anime_Stylized_Arrow_Shot_Hit,1,1,FALSE,SFX
+Arrow2_Low,Sounds/Audio/SFX/Anime/SFX_Vefects_Anime_Stylized_Arrow_Shot_Hit,1,0.8,FALSE,SFX
+Arrow2_High,Sounds/Audio/SFX/Anime/SFX_Vefects_Anime_Stylized_Arrow_Shot_Hit,1,1.2,FALSE,SFX
+,,,,,
+Slash01,Sounds/Audio/SFX/Blood/SFX_Vefects_Blood_Bullet_Hit,1,1,FALSE,SFX
+Slash01_Low,Sounds/Audio/SFX/Blood/SFX_Vefects_Blood_Bullet_Hit,1,0.8,FALSE,SFX
+Slash01_High,Sounds/Audio/SFX/Blood/SFX_Vefects_Blood_Bullet_Hit,1,1.2,FALSE,SFX
+Slash02,Sounds/Audio/SFX/Blood/SFX_Vefects_Blood_Slashes,1,1,FALSE,SFX
+Slash02_Low,Sounds/Audio/SFX/Blood/SFX_Vefects_Blood_Slashes,1,0.8,FALSE,SFX
+Slash02_High,Sounds/Audio/SFX/Blood/SFX_Vefects_Blood_Slashes,1,1.2,FALSE,SFX
+DarkCast,Sounds/Audio/SFX/CutSound/SFX_Vefects_Stylized_Magic_Attack_Dark_Cast,1,1,FALSE,SFX
+DarkCast_Low,Sounds/Audio/SFX/CutSound/SFX_Vefects_Stylized_Magic_Attack_Dark_Cast,1,0.8,FALSE,SFX
+DarkCast_High,Sounds/Audio/SFX/CutSound/SFX_Vefects_Stylized_Magic_Attack_Dark_Cast,1,1.2,FALSE,SFX
+FallMeteor,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Explosion_Fire,1,1,FALSE,SFX
+FallMeteor_Low,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Explosion_Fire,1,0.8,FALSE,SFX
+FallMeteor_High,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Explosion_Fire,1,1.2,FALSE,SFX
+FireBurst,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Fire_Burst_01,1,1,FALSE,SFX
+FireBurst_Low,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Fire_Burst_01,1,0.8,FALSE,SFX
+FireBurst_High,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Fire_Burst_01,1,1.2,FALSE,SFX
+Slash03,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Impact_Blood_01,1,1,FALSE,SFX
+Guard,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Shrapnel_01,1,1,FALSE,SFX
+FireShot,Sounds/Audio/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Fire_Hit,1,1,FALSE,SFX
+DebuffCast,Sounds/Audio/SFX/Anime/SFX_Vefects_Anime_Stylized_Debuff_Cast,1,1,FALSE,SFX
+HealCast,Sounds/Audio/SFX/Anime/SFX_Vefects_Anime_Stylized_Heal_Cast,1,1,FALSE,SFX
+,,,,,
+,,,,,
+SpawnSFX01,Sounds/Audio/SFX/CutSound/SFX_Vefects_Stylized_Magic_Attack_Nature_Cast,0.8,1,FALSE,SFX
+SpawnSFX02_0.7,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Fire_Burst_01,0.8,0.7,FALSE,SFX
+SpawnSFX02_0.8,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Fire_Burst_01,0.8,0.8,FALSE,SFX
+SpawnSFX02_0.9,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Fire_Burst_01,0.8,0.9,FALSE,SFX
+SpawnSFX02_1.0,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Fire_Burst_01,0.8,1,FALSE,SFX
+SpawnSFX02_1.1,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Fire_Burst_01,0.8,1.1,FALSE,SFX
+SpawnSFX02_1.2,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Fire_Burst_01,0.8,1.2,FALSE,SFX
+SpawnSFX02_1.3,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Fire_Burst_01,0.8,1.3,FALSE,SFX
+,,,,,
+GunShot2,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_GunShot_02,1,1,FALSE,SFX
+GunShot2_Low,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_GunShot_02,1,0.85,FALSE,SFX
+GunShot2_High,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_GunShot_02,1,1.15,FALSE,SFX
+,,,,,
+SlashFire,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Slash_Fire,1,1,FALSE,SFX
+ExplosionBlack,Sounds/Audio/SFX/Explosions/SFX_Vefects_Explosion_Black,1,1,FALSE,SFX
+,,,,,
+SlashDark,Sounds/Audio/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Dark,1,0.8,FALSE,SFX
+ZapBig,Sounds/Audio/SFX/Zap/SFX_Vefects_Zap_Big_01,1,0.75,FALSE,SFX
+,,,,,
+BGM,,,,,
+TitleBGM,Sounds/Audio/BGM/Pixel 1,1,1,TRUE,BGM
+SynopsisBGM,Sounds/Audio/BGM/Pixel 2,1,1,TRUE,BGM
+VillageBGM,Sounds/Audio/BGM/Pixel 3,1,1,TRUE,BGM
+DungeonBGM,Sounds/Audio/BGM/Pixel 11,1,1,TRUE,BGM
+BossPrevBGM,Sounds/Audio/BGM/Pixel 12,1,1,TRUE,BGM
+BossBGM,Sounds/Audio/BGM/Pixel 5,1,1,TRUE,BGM
+EndingBGM,Sounds/Audio/BGM/Pixel 10,1,1,TRUE,BGM

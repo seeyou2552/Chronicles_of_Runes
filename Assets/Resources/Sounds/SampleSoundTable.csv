@@ -1,0 +1,141 @@
+﻿id,path,volume,pitch,loop,type
+Attack1,Sounds/Audio/SFX/Anime/SFX_Vefects_Anime_Stylized_Arrow_Shot_Cast,1,1,FALSE,SFX
+BGM6,Sounds/Audio/BGM/Pixel 10,1,1,TRUE,BGM
+NormalMagicBall,Sounds/Audio/SFX/Anime/SFX_Vefects_Anime_Stylized_Bomb_Cast,1,1,FALSE,SFX
+FireMagicBall,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Slash_Fire,1,1,FALSE,SFX
+WaterMagicBall,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Liquid_Hit_03,1,1,FALSE,SFX
+IceMagicBall,Sounds/Audio/SFX/CutSound/SFX_Vefects_Stylized_Magic_Attack_Ice_Cast,1,1,FALSE,SFX
+ElectricMagicBall,Sounds/Audio/SFX/CutSound/SFX_Vefects_Stylized_Magic_Attack_Electric_Cast,1,1,FALSE,SFX
+DarkMagicBall,Sounds/Audio/SFX/CutSound/SFX_Vefects_Stylized_Magic_Attack_Dark_Cast,1,1,FALSE,SFX
+LightMagicBall,Sounds/Audio/SFX/CutSound/SFX_Vefects_Stylized_Magic_Attack_Nature_Cast,1,1,FALSE,SFX
+HitNormalMagicBall,Sounds/Audio/SFX/Anime/SFX_Vefects_Anime_Stylized_Bomb_Explosion,1,1,FALSE,SFX
+HitFireMagicBall,Sounds/Audio/SFX/Anime/SFX_Vefects_Anime_Stylized_FireBall_Hit,1,1,FALSE,SFX
+HitWaterMagicBall,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Liquid_Hit_01,1,1,FALSE,SFX
+HitIceMagicBall,Sounds/Audio/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Ice_Hit,1,1,FALSE,SFX
+HitElectricMagicBall,Sounds/Audio/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Electric_Hit,1,1,FALSE,SFX
+HitDarkMagicBall,Sounds/Audio/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Dark_Hit,1,1,FALSE,SFX
+HitLightMagicBall,Sounds/Audio/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Nature_Hit,1,1,FALSE,SFX
+NormalRain,Sounds/Audio/SFX/Anime/SFX_Vefects_Anime_Stylized_Bomb_Cast,1,1,FALSE,SFX
+FireRain,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Slash_Fire,1,1,FALSE,SFX
+WaterRain,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Liquid_Hit_03,1,1,FALSE,SFX
+IceRain,Sounds/Audio/SFX/CutSound/SFX_Vefects_Stylized_Magic_Attack_Ice_Cast,1,1,FALSE,SFX
+ElectricRain,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Lightning_01,1,1,FALSE,SFX
+DarkRain,Sounds/Audio/SFX/CutSound/SFX_Vefects_Stylized_Magic_Attack_Dark_Cast,1,1,FALSE,SFX
+LightRain,Sounds/Audio/SFX/CutSound/SFX_Vefects_Stylized_Magic_Attack_Nature_Cast,1,1,FALSE,SFX
+HitNormalRain,Sounds/Audio/SFX/Anime/SFX_Vefects_Anime_Stylized_Bomb_Explosion,1,1,FALSE,SFX
+HitFireRain,Sounds/Audio/SFX/Anime/SFX_Vefects_Anime_Stylized_FireBall_Hit,1,1,FALSE,SFX
+HitWaterRain,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Liquid_Hit_01,1,1,FALSE,SFX
+HitIceRain,Sounds/Audio/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Ice_Hit,1,1,FALSE,SFX
+HitElectricRain,Sounds/Audio/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Electric_Hit,1,1,FALSE,SFX
+HitDarkRain,Sounds/Audio/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Dark_Hit,1,1,FALSE,SFX
+HitLightRain,Sounds/Audio/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Nature_Hit,1,1,FALSE,SFX
+MagicRevolve,Sounds/Audio/SFX/Anime/SFX_Vefects_Anime_Stylized_Bomb_Launch,1,1,FALSE,SFX
+HitNormalOrbiter,Sounds/Audio/SFX/Anime/SFX_Vefects_Anime_Stylized_Bomb_Explosion,1,1,FALSE,SFX
+HitFireOrbiter,Sounds/Audio/SFX/Anime/SFX_Vefects_Anime_Stylized_FireBall_Hit,1,1,FALSE,SFX
+HitWaterOrbiter,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Liquid_Hit_01,1,1,FALSE,SFX
+HitIceOrbiter,Sounds/Audio/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Ice_Hit,1,1,FALSE,SFX
+HitElectricOrbiter,Sounds/Audio/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Electric_Hit,1,1,FALSE,SFX
+HitDarkOrbiter,Sounds/Audio/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Dark_Hit,1,1,FALSE,SFX
+HitLightOrbiter,Sounds/Audio/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Nature_Hit,1,1,FALSE,SFX
+NormalMagicArea,Sounds/Audio/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Earth_Projectile,1,1,TRUE,SFX
+FireMagicArea,Sounds/Audio/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Fire_Projectile,1,1,TRUE,SFX
+WaterMagicArea,Sounds/Audio/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Water_Projectile,1,1,TRUE,SFX
+IceMagicArea,Sounds/Audio/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Ice_Projectile,1,1,TRUE,SFX
+ElectricMagicArea,Sounds/Audio/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Electric_Projectile,1,1,TRUE,SFX
+DarkMagicArea,Sounds/Audio/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Dark_Projectile,1,1,TRUE,SFX
+LightMagicArea,Sounds/Audio/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Nature_Projectile,1,1,TRUE,SFX
+Teleport,Sounds/Audio/SFX/Anime/SFX_Vefects_Anime_Stylized_Lightning_Launch,1,1,FALSE,SFX
+HitMagicRush,Sounds/Audio/SFX/Anime/SFX_Vefects_Anime_Stylized_Basic_Attack,1,1,FALSE,SFX
+Heal,Sounds/Audio/SFX/Anime/SFX_Vefects_Anime_Stylized_Buff_Cast,1,1,FALSE,SFX
+NormalMagicSlash,Sounds/Audio/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Generic,1,1,FALSE,SFX
+FireMagicSlash,Sounds/Audio/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Fire,1,1,FALSE,SFX
+WaterMagicSlash,Sounds/Audio/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Water,1,1,FALSE,SFX
+IceMagicSlash,Sounds/Audio/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Ice,1,1,FALSE,SFX
+ElectricMagicSlash,Sounds/Audio/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Electric,1,1,FALSE,SFX
+DarkMagicSlash,Sounds/Audio/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Dark,1,1,FALSE,SFX
+LightMagicSlash,Sounds/Audio/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Sound,1,1,FALSE,SFX
+StickyBall,Sounds/Audio/SFX/CutSound/SFX_Vefects_Stylized_Magic_Attack_Void_Cast,1,1,FALSE,SFX
+HitNormalStickyBall,Sounds/Audio/SFX/Anime/SFX_Vefects_Anime_Stylized_Bomb_Explosion,1,1,FALSE,SFX
+HitFireStickyBall,Sounds/Audio/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Fire,1,1,FALSE,SFX
+HitWaterStickyBall,Sounds/Audio/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Void,1,1,FALSE,SFX
+HitIceStickyBall,Sounds/Audio/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Ice_Hit,1,1,FALSE,SFX
+HitElectricStickyBall,Sounds/Audio/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Electric_Hit,1,1,FALSE,SFX
+HitDarkStickyBall,Sounds/Audio/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Void,1,1,FALSE,SFX
+HitLightStickyBall,Sounds/Audio/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Sound_Hit,1,1,FALSE,SFX
+Burst,Sounds/Audio/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Fire,1,1,FALSE,SFX
+TimeCircle,Sounds/Audio/SFX/CutSound/clock-ticking-sound-effect,1,1,TRUE,SFX
+HitTimeCircle,Sounds/Audio/SFX/Anime/SFX_Vefects_Anime_Stylized_Explosion_Ice,1,1,FALSE,SFX
+NormalMagicBeam,Sounds/Audio/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Earth_Projectile,1,1,TRUE,SFX
+FireMagicBeam,Sounds/Audio/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Fire_Projectile,1,1,TRUE,SFX
+WaterMagicBeam,Sounds/Audio/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Water_Projectile,1,1,TRUE,SFX
+IceMagicBeam,Sounds/Audio/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Ice_Projectile,1,1,TRUE,SFX
+ElectricMagicBeam,Sounds/Audio/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Electric_Projectile,1,1,TRUE,SFX
+DarkMagicBeam,Sounds/Audio/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Dark_Projectile,1,1,TRUE,SFX
+LightMagicBeam,Sounds/Audio/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Sound_Projectile,1,1,TRUE,SFX
+HitNormalMagicBeam,Sounds/Audio/SFX/Anime/SFX_Vefects_Anime_Stylized_Bomb_Explosion,1,1,FALSE,SFX
+HitFireMagicBeam,Sounds/Audio/SFX/Anime/SFX_Vefects_Anime_Stylized_FireBall_Hit,1,1,FALSE,SFX
+HitWaterMagicBeam,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Liquid_Hit_01,1,1,FALSE,SFX
+HitIceMagicBeam,Sounds/Audio/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Ice_Hit,1,1,FALSE,SFX
+HitElectricMagicBeam,Sounds/Audio/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Electric_Hit,1,1,FALSE,SFX
+HitDarkMagicBeam,Sounds/Audio/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Dark_Hit,1,1,FALSE,SFX
+HitLightMagicBeam,Sounds/Audio/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Nature_Hit,1,1,FALSE,SFX
+,,,,,
+Arrow1,Sounds/Audio/SFX/Anime/SFX_Vefects_Anime_Stylized_Arrow_Shot_Cast,1,1,FALSE,SFX
+Arrow1_Low,Sounds/Audio/SFX/Anime/SFX_Vefects_Anime_Stylized_Arrow_Shot_Cast,1,0.8,FALSE,SFX
+Arrow1_High,Sounds/Audio/SFX/Anime/SFX_Vefects_Anime_Stylized_Arrow_Shot_Cast,1,1.2,FALSE,SFX
+Arrow2,Sounds/Audio/SFX/Anime/SFX_Vefects_Anime_Stylized_Arrow_Shot_Hit,1,1,FALSE,SFX
+Arrow2_Low,Sounds/Audio/SFX/Anime/SFX_Vefects_Anime_Stylized_Arrow_Shot_Hit,1,0.8,FALSE,SFX
+Arrow2_High,Sounds/Audio/SFX/Anime/SFX_Vefects_Anime_Stylized_Arrow_Shot_Hit,1,1.2,FALSE,SFX
+,,,,,
+Slash01,Sounds/Audio/SFX/Blood/SFX_Vefects_Blood_Bullet_Hit,1,1,FALSE,SFX
+Slash01_Low,Sounds/Audio/SFX/Blood/SFX_Vefects_Blood_Bullet_Hit,1,0.8,FALSE,SFX
+Slash01_High,Sounds/Audio/SFX/Blood/SFX_Vefects_Blood_Bullet_Hit,1,1.2,FALSE,SFX
+Slash02,Sounds/Audio/SFX/Blood/SFX_Vefects_Blood_Slashes,1,1,FALSE,SFX
+Slash02_Low,Sounds/Audio/SFX/Blood/SFX_Vefects_Blood_Slashes,1,0.8,FALSE,SFX
+Slash02_High,Sounds/Audio/SFX/Blood/SFX_Vefects_Blood_Slashes,1,1.2,FALSE,SFX
+DarkCast,Sounds/Audio/SFX/CutSound/SFX_Vefects_Stylized_Magic_Attack_Dark_Cast,1,1,FALSE,SFX
+DarkCast_Low,Sounds/Audio/SFX/CutSound/SFX_Vefects_Stylized_Magic_Attack_Dark_Cast,1,0.8,FALSE,SFX
+DarkCast_High,Sounds/Audio/SFX/CutSound/SFX_Vefects_Stylized_Magic_Attack_Dark_Cast,1,1.2,FALSE,SFX
+FallMeteor,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Explosion_Fire,1,1,FALSE,SFX
+FallMeteor_Low,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Explosion_Fire,1,0.8,FALSE,SFX
+FallMeteor_High,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Explosion_Fire,1,1.2,FALSE,SFX
+FireBurst,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Fire_Burst_01,1,1,FALSE,SFX
+FireBurst_Low,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Fire_Burst_01,1,0.8,FALSE,SFX
+FireBurst_High,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Fire_Burst_01,1,1.2,FALSE,SFX
+Slash03,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Impact_Blood_01,1,1,FALSE,SFX
+Guard,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Shrapnel_01,1,1,FALSE,SFX
+FireShot,Sounds/Audio/SFX/Stylized/Magic Attacks/SFX_Vefects_Stylized_Magic_Attack_Fire_Hit,1,1,FALSE,SFX
+DebuffCast,Sounds/Audio/SFX/Anime/SFX_Vefects_Anime_Stylized_Debuff_Cast,1,1,FALSE,SFX
+HealCast,Sounds/Audio/SFX/Anime/SFX_Vefects_Anime_Stylized_Heal_Cast,1,1,FALSE,SFX
+,,,,,
+,,,,,
+,,,,,
+SpawnSFX01,Sounds/Audio/SFX/CutSound/SFX_Vefects_Stylized_Magic_Attack_Nature_Cast,0.8,1,FALSE,SFX
+SpawnSFX02_0.7,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Fire_Burst_01,0.8,0.7,FALSE,SFX
+SpawnSFX02_0.8,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Fire_Burst_01,0.8,0.8,FALSE,SFX
+SpawnSFX02_0.9,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Fire_Burst_01,0.8,0.9,FALSE,SFX
+SpawnSFX02_1.0,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Fire_Burst_01,0.8,1,FALSE,SFX
+SpawnSFX02_1.1,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Fire_Burst_01,0.8,1.1,FALSE,SFX
+SpawnSFX02_1.2,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Fire_Burst_01,0.8,1.2,FALSE,SFX
+SpawnSFX02_1.3,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Fire_Burst_01,0.8,1.3,FALSE,SFX
+,,,,,
+GunShot2,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_GunShot_02,1,1,FALSE,SFX
+GunShot2_Low,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_GunShot_02,1,0.85,FALSE,SFX
+GunShot2_High,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_GunShot_02,1,1.15,FALSE,SFX
+,,,,,
+SlashFire,Sounds/Audio/SFX/Flipbook/SFX_Vefects_Flipbook_Slash_Fire,1,1,FALSE,SFX
+ExplosionBlack,Sounds/Audio/SFX/Explosions/SFX_Vefects_Explosion_Black,1,1,FALSE,SFX
+,,,,,
+SlashDark,Sounds/Audio/SFX/Stylized/Slashes Piercing/SFX_Vefects_Stylized_Slash_Dark,1,0.8,FALSE,SFX
+ZapBig,Sounds/Audio/SFX/Zap/SFX_Vefects_Zap_Big_01,1,0.75,FALSE,SFX
+,,,,,
+BGM,,,,,
+TitleBGM,Sounds/Audio/BGM/Pixel 1,1,1,TRUE,BGM
+SynopsisBGM,Sounds/Audio/BGM/Pixel 2,1,1,TRUE,BGM
+VillageBGM,Sounds/Audio/BGM/Pixel 3,1,1,TRUE,BGM
+DungeonBGM,Sounds/Audio/BGM/Pixel 11,1,1,TRUE,BGM
+BossPrevBGM,Sounds/Audio/BGM/Pixel 12,1,1,TRUE,BGM
+BossBGM,Sounds/Audio/BGM/Pixel 5,1,1,TRUE,BGM
+EndingBGM,Sounds/Audio/BGM/Pixel 10,1,1,TRUE,BGM
+,,,,,
+Clocking,Sounds/Audio/SFX/CutSound/clock-ticking-sound-effect,1,1,TRUE,SFX
