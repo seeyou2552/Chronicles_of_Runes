@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43aa11a0b8c5d614b93f66d990a0dd80, type: 3}
+  m_Name: DataCollector
+  m_EditorClassIdentifier: 
+  skillList:
+    skillData:
+    - {fileID: 11400000, guid: 4d95e29ad50969e4aabe97a51c2ae1ff, type: 2}
+    - {fileID: 11400000, guid: 1b9d895826cb3ca4288121a729ebd900, type: 2}
+    - {fileID: 11400000, guid: 8ca4feafa0e6a4246bfd789a8e124ab0, type: 2}
+    - {fileID: 11400000, guid: 59de53ee8b3b19a4abdbfa873a2ddea2, type: 2}
+    - {fileID: 11400000, guid: 59ce14d01dd0fe849ab3a1d49f87aa7e, type: 2}
+    - {fileID: 11400000, guid: 3cb8565fbe3dee7409f2f655046507a0, type: 2}
+    - {fileID: 11400000, guid: c43b7a68e34a8a643a62bab42eac85cc, type: 2}
+    - {fileID: 11400000, guid: 1b3367a39defd9d468b06fa05b0232b3, type: 2}
+    - {fileID: 11400000, guid: 2be442e1d2f819742aaee34b2021b296, type: 2}
+    - {fileID: 11400000, guid: c118b80ce11a1f54a9ece89e6398d477, type: 2}
+    - {fileID: 11400000, guid: 6996264ee4ee9354396e01f55479bfd8, type: 2}
+    - {fileID: 11400000, guid: 4201d338de626ee4e950aa04ddc37670, type: 2}
+    - {fileID: 11400000, guid: 2ab9ff6aeb4623140a54fe0d0e37083e, type: 2}
+    - {fileID: 11400000, guid: 503d8fb3bc36e9d4ab756a620b258d97, type: 2}
+    - {fileID: 11400000, guid: bf647dbda739478409b6d4db750248bf, type: 2}
+  runeList:
+    runeData:
+    - {fileID: 11400000, guid: 434be7cf460e2b340b0ba29137d6c1c6, type: 2}
+    - {fileID: 11400000, guid: 74c61300045147c459feb8d0fc161802, type: 2}
+    - {fileID: 11400000, guid: c09967f05e5322f40a940114cb87b681, type: 2}
+    - {fileID: 11400000, guid: d1631effa4a37ef45bce82529c0902da, type: 2}
+    - {fileID: 11400000, guid: 3fb75e364c635b84aa98eb45fb57639f, type: 2}
+    - {fileID: 11400000, guid: 728fc5e81b7e4f743a65f7b8f786dd7f, type: 2}
+    - {fileID: 11400000, guid: af57ecc8477896b4d8c349c377db5ba1, type: 2}
+    - {fileID: 11400000, guid: 830b06d6694a6ef419c79edba47dc37c, type: 2}
+    - {fileID: 11400000, guid: ae0b2df9189e24b4ea86a56065cc0c80, type: 2}
+    - {fileID: 11400000, guid: 334a1a896c2b31b4897fd5b9dedd65a3, type: 2}
+    - {fileID: 11400000, guid: b37eedfd10ff67949bc05ba0bbc7ba6e, type: 2}
+    - {fileID: 11400000, guid: 8b9a2ab9842d725478cec3a0baf3bb73, type: 2}
+    - {fileID: 11400000, guid: d8521365bb668d84196d46ee820d5fc2, type: 2}
+    - {fileID: 11400000, guid: 98afe55af7302b748b18d586bd3b0248, type: 2}
+    - {fileID: 11400000, guid: 6560feac696ff6d4ea24c192d1d34f7a, type: 2}
+    - {fileID: 11400000, guid: 53cac783ac73df941b425f37feeb9b1e, type: 2}
+    - {fileID: 11400000, guid: e9ef88f89f498ea4a9859b4bad3b5cf8, type: 2}
+    - {fileID: 11400000, guid: e541a56052448604fb82f79e93c73467, type: 2}
+    - {fileID: 11400000, guid: 71db5e5ffac982143bca28acde542274, type: 2}
+  itemList:
+    itemData:
+    - {fileID: 11400000, guid: ef09a3154abff8d4196e360b2c8e2160, type: 2}
+    - {fileID: 11400000, guid: 0ba63a35739e0cf4f95b8d509cde0ad9, type: 2}
+    - {fileID: 11400000, guid: 447592009a633cd4b8fc2b614ef5106d, type: 2}
+    - {fileID: 11400000, guid: 6edda8aeeb5df554ea9cdf7a8e7ce929, type: 2}
+    - {fileID: 11400000, guid: 8c3f7f2f12222164bbb4493142603ed2, type: 2}
+    - {fileID: 11400000, guid: a27c23125c31f334fae8269e1ad70c55, type: 2}
+  achievementList:
+    achievementData:
+    - {fileID: 11400000, guid: 36059b2e8ecac8749a4ca6a8a5a51318, type: 2}
+    - {fileID: 11400000, guid: e86c9493d07554b4cacf06fd2230fa15, type: 2}
+    - {fileID: 11400000, guid: c7a97de2c7b45a14980feb3e6f271ef6, type: 2}
+    - {fileID: 11400000, guid: 290e1c7a6ed79dd45856755e69abb7fe, type: 2}
+    - {fileID: 11400000, guid: ffc98a6e6ac7d7a46a4820dcd6c43156, type: 2}
