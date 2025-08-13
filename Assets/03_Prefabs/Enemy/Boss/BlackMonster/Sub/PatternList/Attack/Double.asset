@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7983861887497884c90a6339e719a20f, type: 3}
+  m_Name: Double
+  m_EditorClassIdentifier: 
+  Comment: "2\uC5F0\uC18D \uACF5\uACA9\n\n1\uD68C \uD0C0\uACA9\uD6C4 \uBE60\uB978\uC18D\uB3C4\uB85C
+    2\uD0C0"
+  weight: 1
+  VFX: {fileID: 4466096016444222282, guid: 7462e84ba029dd74f8ecf2a51abe75d0, type: 3}
+  rich: 1.5
+  SFX:
+  - Slash01
+  - Slash01_Low
+  - Slash01_High
+  - Slash02
+  - Slash02_Low
+  - Slash02_High
+  - Slash03
+  projectileSo: {fileID: 0}
+  dashCnt: 2
+  dashDistance: 7.5
+  dashDuration: 0.5
+  dashWidth: 3
+  firstDelay: 0.6
+  lastDelay: 0.02
+  Ratio: 1
+  lastRatio: 0.4
+  isBodySlam: 0
+  isEffectAttack: 0
+  coolDown: 4
+  endAnimation: 0
+  callBackPattern: {fileID: 0}
+  test: {fileID: 0}
+  patternCallBack: {fileID: 0}

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e89e06ae77559a8459750fe2cc37c8cb, type: 3}
+  m_Name: BirMeteor
+  m_EditorClassIdentifier: 
+  Comment: "\uC5F0\uACC4\uC6A9 \uD328\uD134"
+  weight: 0
+  VFX: {fileID: 0}
+  rich: 0
+  SFX:
+  - FallMeteor
+  projectileSo: {fileID: 11400000, guid: 93bb95d1d125d584e8b1ed17e96780e0, type: 2}
+  runeList:
+  - {fileID: 11400000, guid: caec3beb2b95f564a90d53015af0a9c8, type: 2}
+  cnt: 1
+  fallDistance: 5
+  fallDuration: 3.5
+  radius: 20
+  firstDelay: 4
+  lastDelay: 7
+  isTargeting: 0
+  isCenterTarget: 1
+  coolDown: 0
+  endAnimation: 0
+  castSFX: ZapBig

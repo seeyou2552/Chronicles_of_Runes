@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44bcda814e0944640b71b4f5e51688df, type: 3}
+  m_Name: RandomAimedAttack 2
+  m_EditorClassIdentifier: 
+  Comment: "\uB79C\uB364 \uBC29\uD5A5\uC5D0\uC11C \uACF5\uACA9"
+  weight: 1
+  VFX: {fileID: 0}
+  rich: 0
+  SFX:
+  - GunShot2
+  - GunShot2_Low
+  - GunShot2_High
+  projectileSo: {fileID: 11400000, guid: 93bb95d1d125d584e8b1ed17e96780e0, type: 2}
+  runeList:
+  - {fileID: 11400000, guid: acef1690ac1d119418dbc612e9072353, type: 2}
+  prefab: {fileID: 0}
+  radius: 22
+  firstDelay: 0.77
+  lastDelay: 0
+  shotSpeed: 35
+  warningLength: 40
+  warningWidth: 0.2
+  Ratio: 1.7
+  coolDown: 1.9
+  endAnimation: 0

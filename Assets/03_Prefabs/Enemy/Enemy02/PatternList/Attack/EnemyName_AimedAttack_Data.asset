@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66f1839215ab7b54698186655e41c23d, type: 3}
+  m_Name: EnemyName_AimedAttack_Data
+  m_EditorClassIdentifier: 
+  Comment: 
+  weight: 1
+  VFX: {fileID: 4466096016444222282, guid: 7462e84ba029dd74f8ecf2a51abe75d0, type: 3}
+  rich: 0
+  SFX:
+  - FireShot
+  projectileSo: {fileID: 11400000, guid: 93bb95d1d125d584e8b1ed17e96780e0, type: 2}
+  runeList:
+  - {fileID: 11400000, guid: 87db21bca1698e54aac019a38e6f0c97, type: 2}
+  cnt: 1
+  prefab: {fileID: 3098560809658669839, guid: 5b1e14e967db4cd4da0a97f05687ea27, type: 3}
+  firstDelay: 1
+  lastDelay: 2
+  shotSpeed: 15
+  isDelayStay: 1
+  warningLength: 0
+  warningWidth: 0
+  castSFX: 
+  Ratio: 1
+  coolDown: 3
+  endAnimation: 0
+  callBackPattern: {fileID: 0}

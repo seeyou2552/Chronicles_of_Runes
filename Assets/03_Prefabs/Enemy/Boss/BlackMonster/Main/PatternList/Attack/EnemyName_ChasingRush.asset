@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82bc1eab6a5a2bd45ba749f69ba9b08f, type: 3}
+  m_Name: EnemyName_ChasingRush
+  m_EditorClassIdentifier: 
+  Comment: 
+  weight: 0
+  VFX: {fileID: 4466096016444222282, guid: 7462e84ba029dd74f8ecf2a51abe75d0, type: 3}
+  rich: 1.5
+  SFX:
+  - Slash02_Low
+  projectileSo: {fileID: 0}
+  lookDuration: 3.5
+  dashDuration: 0.6
+  dashDistance: 15
+  dashWidth: 5
+  dashSpeed: 13
+  firstDelay: 0.5
+  lastDelay: 0.15
+  isBodySlam: 0
+  isEffectAttack: 0
+  coolDown: 3
+  endAnimation: 0
+  callBackPatternSo: {fileID: 0}
+  crashSFX: Guard

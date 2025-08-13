@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2109276630561386826
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1760535160775913119}
+  - component: {fileID: 1794894042529014377}
+  - component: {fileID: 6593476972338194278}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1760535160775913119
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2109276630561386826}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 29.227411, y: 17.603016, z: -17.79004}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1794894042529014377
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2109276630561386826}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5c179af15ec9564abc3ff2fc0fa6c49, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneFlowManager: {fileID: 6593476972338194278}
+--- !u!114 &6593476972338194278
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2109276630561386826}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd456531676141547962af46c0004cea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  stageScenes:
+  - sceneAsset: {fileID: 102900000, guid: b09b29fd94c65d54e8cc0d8f732a1213, type: 3}
+    sceneName: GameScene
+  mainScene:
+    sceneAsset: {fileID: 102900000, guid: f4bf11edae33fee4da3dbc356c3b416f, type: 3}
+    sceneName: StartScene
+  villageScene:
+    sceneAsset: {fileID: 102900000, guid: 5a4c99812e2963a46bc93ac687855862, type: 3}
+    sceneName: VillageScene
+  endingScene:
+    sceneAsset: {fileID: 102900000, guid: 986830406d89a7e40b482d47199ecf9d, type: 3}
+    sceneName: EndingTestScene

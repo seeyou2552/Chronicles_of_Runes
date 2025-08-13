@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7983861887497884c90a6339e719a20f, type: 3}
+  m_Name: Strong
+  m_EditorClassIdentifier: 
+  Comment: "\uCC28\uC9C0 \uD6C4 \uD070\uBC94\uC704 \uB3CC\uACA9"
+  weight: 1
+  VFX: {fileID: 4466096016444222282, guid: 7462e84ba029dd74f8ecf2a51abe75d0, type: 3}
+  rich: 1.5
+  SFX:
+  - SFX_Vefects_Blood_Bullet_Hit
+  projectileSo: {fileID: 0}
+  dashCnt: 1
+  dashDistance: 18
+  dashDuration: 0.125
+  dashWidth: 15
+  firstDelay: 1.75
+  lastDelay: 0.5
+  Ratio: 1
+  lastRatio: 1
+  isBodySlam: 0
+  isEffectAttack: 0
+  coolDown: 5
+  endAnimation: 0
+  callBackPattern: {fileID: 0}

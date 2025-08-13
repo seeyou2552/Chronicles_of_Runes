@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7983861887497884c90a6339e719a20f, type: 3}
+  m_Name: Whirlwind
+  m_EditorClassIdentifier: 
+  Comment: "\uC9E7\uC740\uAC70\uB9AC \uC5F0\uC18D \uB3CC\uC9C4"
+  weight: 1
+  VFX: {fileID: 4466096016444222282, guid: 7462e84ba029dd74f8ecf2a51abe75d0, type: 3}
+  rich: 1.5
+  SFX:
+  - Slash01
+  projectileSo: {fileID: 0}
+  dashCnt: 6
+  dashDistance: 3
+  dashDuration: 0.125
+  dashWidth: 3
+  firstDelay: 0
+  lastDelay: 0.2
+  Ratio: 1
+  lastRatio: 1
+  isBodySlam: 0
+  isEffectAttack: 0
+  coolDown: 4
+  endAnimation: 0
+  callBackPattern: {fileID: 0}
+  test: {fileID: 0}
+  patternCallBack: {fileID: 0}

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66f1839215ab7b54698186655e41c23d, type: 3}
+  m_Name: RandomElemet
+  m_EditorClassIdentifier: 
+  Comment: 
+  weight: 3
+  VFX: {fileID: 0}
+  rich: 0
+  SFX:
+  - FireBurst
+  projectileSo: {fileID: 11400000, guid: 93bb95d1d125d584e8b1ed17e96780e0, type: 2}
+  runeList:
+  - {fileID: 11400000, guid: acef1690ac1d119418dbc612e9072353, type: 2}
+  - {fileID: 11400000, guid: 1efa832bdc8945141898c4af38b1727b, type: 2}
+  cnt: 3
+  prefab: {fileID: 0}
+  firstDelay: 0.35
+  lastDelay: 0.1
+  shotSpeed: 28
+  isDelayStay: 1
+  warningLength: 70
+  warningWidth: 0.4
+  castSFX: 
+  Ratio: 1
+  coolDown: 0
+  endAnimation: 0
+  callBackPattern: {fileID: 0}

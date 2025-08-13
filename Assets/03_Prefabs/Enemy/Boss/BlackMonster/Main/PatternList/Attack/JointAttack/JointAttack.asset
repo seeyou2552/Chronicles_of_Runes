@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7983861887497884c90a6339e719a20f, type: 3}
+  m_Name: JointAttack
+  m_EditorClassIdentifier: 
+  Comment: 
+  weight: 4
+  VFX: {fileID: 4466096016444222282, guid: 7462e84ba029dd74f8ecf2a51abe75d0, type: 3}
+  rich: 1.5
+  SFX:
+  - Slash01
+  projectileSo: {fileID: 0}
+  dashCnt: 1
+  dashDistance: 13
+  dashDuration: 0.6
+  dashWidth: 4
+  firstDelay: 1.25
+  lastDelay: 0
+  Ratio: 1
+  lastRatio: 2
+  isBodySlam: 0
+  isEffectAttack: 0
+  coolDown: 4.5
+  endAnimation: 0
+  callBackPattern: {fileID: 11400000, guid: 6af0ba0876bbcba41974da5c35de5ea9, type: 2}
+  OnStarted:
+    m_PersistentCalls:
+      m_Calls: []
+  OnFinished:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 6630249499112205410, guid: 60a5532fd51090e4480ee4974ceb446f, type: 3}
+        m_TargetAssemblyTypeName: DoubleBoss, Assembly-CSharp
+        m_MethodName: CallBack
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2

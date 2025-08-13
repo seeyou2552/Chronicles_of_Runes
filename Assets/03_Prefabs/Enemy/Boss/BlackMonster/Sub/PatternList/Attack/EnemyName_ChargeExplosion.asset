@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5057b1e89ba24d4a982269d5f3c61f0, type: 3}
+  m_Name: EnemyName_ChargeExplosion
+  m_EditorClassIdentifier: 
+  Comment: 
+  weight: 1
+  VFX: {fileID: 0}
+  rich: 0
+  SFX:
+  - FireBurst_Low
+  projectileSo: {fileID: 0}
+  radius: 9
+  firstDelay: 1.8
+  lastDelay: 0
+  coolDown: 5
+  endAnimation: 0
+  OnStarted:
+    m_PersistentCalls:
+      m_Calls: []
+  OnFinished:
+    m_PersistentCalls:
+      m_Calls: []

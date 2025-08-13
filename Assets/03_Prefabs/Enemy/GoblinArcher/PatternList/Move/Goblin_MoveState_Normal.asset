@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36795cb7da275e94cb02ec87673b8ef4, type: 3}
+  m_Name: Goblin_MoveState_Normal
+  m_EditorClassIdentifier: 
+  Comment: "\uCCB4\uC774\uC2F1\uC5B4\uD0DD\uC774 \uCF1C\uC838\uC788\uC73C\uBA74 \uC0AC\uAC70\uB9AC
+    \uC548\uC5D0 \uB4E4\uC5B4\uC62C \uC2DC \n\uC5B4\uD0DD\uC774 \uD638\uCD9C\uB310"
+  weight: 5
+  VFX: {fileID: 0}
+  rich: 0
+  SFX: []
+  projectileSo: {fileID: 0}
+  endStateTime: 0.5
+  isChasingAttack: 1
+  pattern: {fileID: 0}
