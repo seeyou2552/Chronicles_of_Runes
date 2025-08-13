@@ -1,0 +1,40 @@
+{
+    "Left": {
+        "name": "???",
+        "portrait": "wizard_portrait",
+        "profile": "user_profile_01"
+    },
+    "Right": {
+        "name": "플레이어",
+        "portrait": "player_portrait",
+        "profile": "user_profile_01"
+    },
+    "Dialogues": [
+        {
+            "seq": 0,
+            "speaker": "Left",
+            "text": "신살자들을 성공적으로 저지하였구나..",
+            "btn": [
+                { "text": "네?", "nextSeq": 1 },
+                { "text": "당신은 누구죠?", "nextSeq": 1 }
+            ]
+        },
+        {
+            "seq": 1,
+            "speaker": "Left",
+            "text": "하지만 그 힘으로 신들을 상대하기에는 부족할 것이다. \n 내가 직접 시간을 되돌려주마.",
+            "btn": [
+                { "text": "...", "nextSeq": 2 }
+            ]
+        },
+        {
+            "seq": 2,
+            "speaker": "Left",
+            "text": "신살자들을 상대하면서 지금 보다는 더 강해져서 돌아오거라.",
+            "btn": [
+                { "text": "...", "nextSeq": 3 }
+            ]
+        }
+    ]
+
+}

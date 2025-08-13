@@ -1,0 +1,23 @@
+{
+    "Left": {
+        "name": "세르마",
+        "portrait": "wizard_portrait",
+        "profile": "tutorial_profile_01"
+    },
+    "Right": {
+        "name": "플레이어",
+        "portrait": "player_portrait",
+        "profile": "user_profile_01"
+    },
+    "Dialogues": [
+        {
+            "seq": 7,
+            "speaker": "Left",
+            "text": "움직여 봐라.\n룬이 널 받아들였는지 확인해보자.",
+            "btn": [
+                { "text": "네.", "nextSeq": 11 }
+            ]
+        }
+    ]
+
+}

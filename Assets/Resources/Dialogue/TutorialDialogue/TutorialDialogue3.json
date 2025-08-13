@@ -1,0 +1,30 @@
+{
+    "Left": {
+        "name": "세르마",
+        "portrait": "wizard_portrait",
+        "profile": "tutorial_profile_01"
+    },
+    "Right": {
+        "name": "플레이어",
+        "portrait": "player_portrait",
+        "profile": "user_profile_01"
+    },
+    "Dialogues": [
+        {
+            "seq" : 0,
+            "speaker": "Left",
+            "text": "다음은 룬의 사용법이다.",
+            "btn": [
+                { "text": "룬이요?", "nextSeq": 1 }
+            ]
+        },
+        {
+            "seq": 1,
+            "speaker": "Left",
+            "text": "룬은 권능이 담긴 돌.\n 마법을 강화하는데 사용 할 수 있다.\n 스킬 슬롯 아래에 내가 방금 준 룬을 합쳐봐라",
+            "btn": [
+                { "text": "알겠습니다.", "nextSeq": 13 }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7296bd9af9a7abd4f986a0b5e582d4bf, type: 3}
+  m_Name: Passive_Ebony Magic
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: faa07d509e2961e43b8e11347388a9c4, type: 3}
+  passiveName: "\uC601\uD63C \uD761\uC218"
+  description: "\uCC98\uC74C\uC5D4 \uACF5\uACA9\uB825\uC774 2 \uC904\uC5B4\uB4E4\uC9C0\uB9CC,
+    \n\uC801\uC744 \uCC98\uCE58\uD560\uC218\uB85D 0.05\uC529 \uAC15\uD574\uC9D1\uB2C8\uB2E4."
+  ebonyMagicBonus: 0.05
+  ebonyMagicStartAtk: -2

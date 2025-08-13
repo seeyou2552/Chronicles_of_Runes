@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e435af12c1222946beedf682b3bcba1, type: 3}
+  m_Name: Passive_Defensive Movement
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 5104b605b705232419131d136a23aa9a, type: 3}
+  passiveName: "\uC218\uBE44\uC801\uC778 \uC6C0\uC9C1\uC784"
+  description: "\uBC1B\uB294 \uB370\uBBF8\uC9C0\uC640 \uC8FC\uB294 \uB370\uBBF8\uC9C0\uAC00\n\uAC01\uAC01
+    40%, 20% \uAC10\uC18C\uD569\uB2C8\uB2E4"
+  damageIncome: 0.6
+  damageOutcome: 0.8

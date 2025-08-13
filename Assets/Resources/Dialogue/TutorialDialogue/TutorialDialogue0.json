@@ -1,0 +1,22 @@
+{
+    "Left": {
+        "name": "세르마",
+        "portrait": "wizard_portrait",
+        "profile": "tutorial_profile_01"
+    },
+    "Right": {
+        "name": "플레이어",
+        "portrait": "player_portrait",
+        "profile": "user_profile_01"
+    },
+    "Dialogues": [
+        {
+            "seq": 0,
+            "speaker": "Left",
+            "text": "돌아온 모양이군.. 건투를 비네",
+            "btn": [
+                { "text": "(대화를 종료한다.)", "nextSeq": 1 }
+            ]
+        }
+    ]
+}

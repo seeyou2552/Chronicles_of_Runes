@@ -1,0 +1,79 @@
+{
+    "Left": {
+        "name": "세르마",
+        "portrait": "wizard_portrait",
+        "profile": "tutorial_profile_01"
+    },
+    "Right": {
+        "name": "플레이어",
+        "portrait": "player_portrait",
+        "profile": "user_profile_01"
+    },
+    "Dialogues": [
+        {
+            "seq": 0,
+            "speaker": "Left",
+            "text": "...정말 깨어났군...\n시간의 룬이 또다시 한 사람을 불러낸 모양이야.",
+            "btn": [
+                { "text": "여긴 어디죠?.", "nextSeq": 1 },
+                { "text": "당신은 누구죠?", "nextSeq": 2 }
+            ]
+        },
+        {
+            "seq": 1,
+            "speaker": "Left",
+            "text": "여긴 시간이 멈춘 틈.\n반복되기 전의 파편 같은 공간이지.",
+            "btn": [
+                { "text": "당신은 누구죠?", "nextSeq": 2 }
+            ]
+        },
+        {
+            "seq": 2,
+            "speaker": "Left",
+            "text": "나는 세르마.\n시간의 신이 처음으로 선택한 자... 그러나 끝내 실패한 계승자다.",
+            "btn": [
+                { "text": "무슨 실패를 말하는 건가요.", "nextSeq": 3 }
+            ]
+        },
+        {
+            "seq": 3,
+            "speaker": "Left",
+            "text": "수없이 시간을 되돌렸지만\n결국 신살자들을 막을 수 없었지.",
+            "btn": [
+                { "text": "신살자라는 건 처음 듣는 이름이군요.", "nextSeq": 4 }
+            ]
+        },
+        {
+            "seq": 4,
+            "speaker": "Left",
+            "text": "신들의 힘을 빼앗고, 권능을 지배하려는 자들.\n시간의 신은 결국 두 개의 종말만을 보게 되었지.",
+            "btn": [
+                { "text": "종말이라니...?", "nextSeq": 5 }
+            ]
+        },
+        {
+            "seq": 5,
+            "speaker": "Left",
+            "text": "신이 죽거나, 인간이 멸망하거나.\n그래서… 이번엔 너를 부른 거야.",
+            "btn": [
+                { "text": "왜 저를 선택하신 거죠.", "nextSeq": 6 }
+            ]
+        },
+        {
+            "seq": 6,
+            "speaker": "Left",
+            "text": "이 룬을 계승한 네가,\n 마지막 희망이니까.",
+            "btn": [
+                { "text": "어떻게 해야 하죠.", "nextSeq": 7 }
+            ]
+        },
+        {
+            "seq": 7,
+            "speaker": "Left",
+            "text": "내가 준 마법서를 스킬로 등록한 후, 해당 슬롯키를 눌러 스킬을 사용해봐.",
+            "btn": [
+                { "text": "알겠습니다.", "nextSeq": 12 }
+            ]
+        }
+    ]
+}
