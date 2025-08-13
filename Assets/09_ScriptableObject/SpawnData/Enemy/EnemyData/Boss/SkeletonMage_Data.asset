@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2537413831d268b4fa2e4f804bef04f9, type: 3}
+  m_Name: SkeletonMage_Data
+  m_EditorClassIdentifier: 
+  enemyName: SkeletonMage
+  displayName: "\uC2E0\uC0B4\uC790 - \uC2A4\uCF08\uB808\uD1A4 \uBA54\uC774\uC9C0"
+  isBoss: 1
+  hp: 550
+  speed: 8
+  safeDistance: 5
+  enemyPrefab: {fileID: 4907280019923182018, guid: 704012c7898f52e45881f4d1488ff1a6, type: 3}
+  chaseRange: 15
+  attackPower: 12
+  attackRange: 12
+  dropTable:
+  - itemData: {fileID: 11400000, guid: 5e563a448b3e9a0418b60ce3a0c57e5e, type: 2}
+    dropChance: 20
+  - itemData: {fileID: 11400000, guid: b4aaa06f143de2040b3e4e433c534100, type: 2}
+    dropChance: 20
+  - itemData: {fileID: 11400000, guid: cb84e72bbfe9cef4b95483906b2fdcda, type: 2}
+    dropChance: 20
+  - itemData: {fileID: 11400000, guid: 68a263f0f56a4e84eb2039b5dbe20009, type: 2}
+    dropChance: 20
+  - itemData: {fileID: 11400000, guid: 64956eb0cd114944ebcba2564eccd5c5, type: 2}
+    dropChance: 20
+  NoDropWeight: 0
