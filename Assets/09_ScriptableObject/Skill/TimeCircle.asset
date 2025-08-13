@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b88a12e21e67fc45922b604b1a4e55e, type: 3}
+  m_Name: TimeCircle
+  m_EditorClassIdentifier: 
+  skillName: 
+  speed: 2
+  obj: {fileID: 1243619604113524024, guid: d2e0eae0687a0994ab120e667bc41b25, type: 3}
+  coolTime: 1
+  coast: 10
+  delay: 0.2
+  duration: 3
+  SkillAnim: Attack5
+  damage: 5
+  playerAttackPercentage: 10
+  pool: {fileID: 0}
+  devidePool: {fileID: 0}
+  enemyPool: {fileID: 0}
+  count: 0
